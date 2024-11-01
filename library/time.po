@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-11 14:48+0000\n"
+"POT-Creation-Date: 2024-11-01 14:52+0000\n"
 "PO-Revision-Date: 2024-05-11 00:33+0000\n"
 "Last-Translator: Rafael Fontenelle <rffontenelle@gmail.com>, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
@@ -555,6 +555,12 @@ msgstr ""
 msgid "\\(4)"
 msgstr "\\(4)"
 
+msgid "``%u``"
+msgstr ""
+
+msgid "Day of the week (Monday is 1; Sunday is 7) as a decimal number [1, 7]."
+msgstr ""
+
 msgid "``%w``"
 msgstr ""
 
@@ -607,6 +613,24 @@ msgid "``%Z``"
 msgstr ""
 
 msgid "Time zone name (no characters if no time zone exists). Deprecated. [1]_"
+msgstr ""
+
+msgid "``%G``"
+msgstr ""
+
+msgid ""
+"ISO 8601 year (similar to ``%Y`` but follows the rules for the ISO 8601 "
+"calendar year). The year starts with the week that contains the first "
+"Thursday of the calendar year."
+msgstr ""
+
+msgid "``%V``"
+msgstr ""
+
+msgid ""
+"ISO 8601 week number (as a decimal number [01,53]). The first week of the "
+"year is the one that contains the first Thursday of the year. Weeks start on "
+"Monday."
 msgstr ""
 
 msgid "``%%``"
