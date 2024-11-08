@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-26 20:15+0000\n"
+"POT-Creation-Date: 2024-11-08 14:16+0000\n"
 "PO-Revision-Date: 2021-06-28 01:09+0000\n"
 "Last-Translator: Maciej Olko <maciej.olko@gmail.com>, 2022\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
@@ -46,6 +46,409 @@ msgstr ""
 msgid ""
 "The following functions are provided by this module.  Except when explicitly "
 "noted otherwise, all return values are floats."
+msgstr ""
+
+msgid "**Number-theoretic and representation functions**"
+msgstr ""
+
+msgid ":func:`ceil(x) <ceil>`"
+msgstr ""
+
+msgid "Ceiling of *x*, the smallest integer greater than or equal to *x*"
+msgstr ""
+
+msgid ":func:`comb(n, k) <comb>`"
+msgstr ""
+
+msgid ""
+"Number of ways to choose *k* items from *n* items without repetition and "
+"without order"
+msgstr ""
+
+msgid ":func:`copysign(x, y) <copysign>`"
+msgstr ""
+
+msgid "Magnitude (absolute value) of *x* with the sign of *y*"
+msgstr ""
+
+msgid ":func:`fabs(x) <fabs>`"
+msgstr ""
+
+msgid "Absolute value of *x*"
+msgstr ""
+
+msgid ":func:`factorial(n) <factorial>`"
+msgstr ""
+
+msgid "*n* factorial"
+msgstr ""
+
+msgid ":func:`floor (x)  <floor>`"
+msgstr ""
+
+msgid "Floor of *x*, the largest integer less than or equal to *x*"
+msgstr ""
+
+msgid ":func:`fma(x, y, z) <fma>`"
+msgstr ""
+
+msgid "Fused multiply-add operation: ``(x * y) + z``"
+msgstr ""
+
+msgid ":func:`fmod(x, y) <fmod>`"
+msgstr ""
+
+msgid "Remainder of division ``x / y``"
+msgstr ""
+
+msgid ":func:`frexp(x) <frexp>`"
+msgstr ""
+
+msgid "Mantissa and exponent of *x*"
+msgstr ""
+
+msgid ":func:`fsum(iterable) <fsum>`"
+msgstr ""
+
+msgid "Sum of values in the input *iterable*"
+msgstr ""
+
+msgid ":func:`gcd(*integers) <gcd>`"
+msgstr ""
+
+msgid "Greatest common divisor of the integer arguments"
+msgstr ""
+
+msgid ":func:`isclose(a, b, rel_tol, abs_tol) <isclose>`"
+msgstr ""
+
+msgid "Check if the values *a* and *b* are close to each other"
+msgstr ""
+
+msgid ":func:`isfinite(x) <isfinite>`"
+msgstr ""
+
+msgid "Check if *x* is neither an infinity nor a NaN"
+msgstr ""
+
+msgid ":func:`isinf(x) <isinf>`"
+msgstr ""
+
+msgid "Check if *x* is a positive or negative infinity"
+msgstr ""
+
+msgid ":func:`isnan(x) <isnan>`"
+msgstr ""
+
+msgid "Check if *x* is a NaN  (not a number)"
+msgstr ""
+
+msgid ":func:`isqrt(n) <isqrt>`"
+msgstr ""
+
+msgid "Integer square root of a nonnegative integer *n*"
+msgstr ""
+
+msgid ":func:`lcm(*integers) <lcm>`"
+msgstr ""
+
+msgid "Least common multiple of the integer arguments"
+msgstr ""
+
+msgid ":func:`ldexp(x, i) <ldexp>`"
+msgstr ""
+
+msgid "``x * (2**i)``, inverse of function :func:`frexp`"
+msgstr ""
+
+msgid ":func:`modf(x) <modf>`"
+msgstr ""
+
+msgid "Fractional and integer parts of *x*"
+msgstr ""
+
+msgid ":func:`nextafter(x, y, steps) <nextafter>`"
+msgstr ""
+
+msgid "Floating-point value *steps* steps after *x* towards *y*"
+msgstr ""
+
+msgid ":func:`perm(n, k) <perm>`"
+msgstr ""
+
+msgid ""
+"Number of ways to choose *k* items from *n* items without repetition and "
+"with order"
+msgstr ""
+
+msgid ":func:`prod(iterable, start) <prod>`"
+msgstr ""
+
+msgid "Product of elements in the input *iterable* with a *start* value"
+msgstr ""
+
+msgid ":func:`remainder(x, y) <remainder>`"
+msgstr ""
+
+msgid "Remainder of *x* with respect to *y*"
+msgstr ""
+
+msgid ":func:`sumprod(p, q) <sumprod>`"
+msgstr ""
+
+msgid "Sum of products from two iterables *p* and *q*"
+msgstr ""
+
+msgid ":func:`trunc(x) <trunc>`"
+msgstr ""
+
+msgid "Integer part of *x*"
+msgstr ""
+
+msgid ":func:`ulp(x) <ulp>`"
+msgstr ""
+
+msgid "Value of the least significant bit of *x*"
+msgstr ""
+
+msgid "**Power and logarithmic functions**"
+msgstr ""
+
+msgid ":func:`cbrt(x) <cbrt>`"
+msgstr ""
+
+msgid "Cube root of *x*"
+msgstr ""
+
+msgid ":func:`exp(x) <exp>`"
+msgstr ""
+
+msgid "*e* raised to the power *x*"
+msgstr ""
+
+msgid ":func:`exp2(x) <exp2>`"
+msgstr ""
+
+msgid "*2* raised to the power *x*"
+msgstr ""
+
+msgid ":func:`expm1(x) <expm1>`"
+msgstr ""
+
+msgid "*e* raised to the power *x*, minus 1"
+msgstr ""
+
+msgid ":func:`log(x, base) <log>`"
+msgstr ""
+
+msgid "Logarithm of *x* to the given base (*e* by default)"
+msgstr ""
+
+msgid ":func:`log1p(x) <log1p>`"
+msgstr ""
+
+msgid "Natural logarithm of *1+x* (base *e*)"
+msgstr ""
+
+msgid ":func:`log2(x) <log2>`"
+msgstr ""
+
+msgid "Base-2 logarithm of *x*"
+msgstr ""
+
+msgid ":func:`log10(x) <log10>`"
+msgstr ""
+
+msgid "Base-10 logarithm of *x*"
+msgstr ""
+
+msgid ":func:`pow(x, y) <math.pow>`"
+msgstr ""
+
+msgid "*x* raised to the power *y*"
+msgstr ""
+
+msgid ":func:`sqrt(x) <sqrt>`"
+msgstr ""
+
+msgid "Square root of *x*"
+msgstr ""
+
+msgid "**Trigonometric functions**"
+msgstr ""
+
+msgid ":func:`acos(x) <acos>`"
+msgstr ""
+
+msgid "Arc cosine of *x*"
+msgstr ""
+
+msgid ":func:`asin(x) <asin>`"
+msgstr ""
+
+msgid "Arc sine of *x*"
+msgstr ""
+
+msgid ":func:`atan(x) <atan>`"
+msgstr ""
+
+msgid "Arc tangent of *x*"
+msgstr ""
+
+msgid ":func:`atan2(y, x) <atan2>`"
+msgstr ""
+
+msgid "``atan(y / x)``"
+msgstr ""
+
+msgid ":func:`cos(x) <cos>`"
+msgstr ""
+
+msgid "Cosine of *x*"
+msgstr ""
+
+msgid ":func:`dist(p, q) <dist>`"
+msgstr ""
+
+msgid ""
+"Euclidean distance between two points *p* and *q* given as an iterable of "
+"coordinates"
+msgstr ""
+
+msgid ":func:`hypot(*coordinates) <hypot>`"
+msgstr ""
+
+msgid "Euclidean norm of an iterable of coordinates"
+msgstr ""
+
+msgid ":func:`sin(x) <sin>`"
+msgstr ""
+
+msgid "Sine of *x*"
+msgstr ""
+
+msgid ":func:`tan(x) <tan>`"
+msgstr ""
+
+msgid "Tangent of *x*"
+msgstr ""
+
+msgid "**Angular conversion**"
+msgstr ""
+
+msgid ":func:`degrees(x) <degrees>`"
+msgstr ""
+
+msgid "Convert angle *x* from radians to degrees"
+msgstr ""
+
+msgid ":func:`radians(x) <radians>`"
+msgstr ""
+
+msgid "Convert angle *x* from degrees to radians"
+msgstr ""
+
+msgid "**Hyperbolic functions**"
+msgstr ""
+
+msgid ":func:`acosh(x) <acosh>`"
+msgstr ""
+
+msgid "Inverse hyperbolic cosine of *x*"
+msgstr ""
+
+msgid ":func:`asinh(x) <asinh>`"
+msgstr ""
+
+msgid "Inverse hyperbolic sine of *x*"
+msgstr ""
+
+msgid ":func:`atanh(x) <atanh>`"
+msgstr ""
+
+msgid "Inverse hyperbolic tangent of *x*"
+msgstr ""
+
+msgid ":func:`cosh(x) <cosh>`"
+msgstr ""
+
+msgid "Hyperbolic cosine of *x*"
+msgstr ""
+
+msgid ":func:`sinh(x) <sinh>`"
+msgstr ""
+
+msgid "Hyperbolic sine of *x*"
+msgstr ""
+
+msgid ":func:`tanh(x) <tanh>`"
+msgstr ""
+
+msgid "Hyperbolic tangent of *x*"
+msgstr ""
+
+msgid "**Special functions**"
+msgstr ""
+
+msgid ":func:`erf(x) <erf>`"
+msgstr ""
+
+msgid "`Error function <https://en.wikipedia.org/wiki/Error_function>`_ at *x*"
+msgstr ""
+
+msgid ":func:`erfc(x) <erfc>`"
+msgstr ""
+
+msgid ""
+"`Complementary error function <https://en.wikipedia.org/wiki/"
+"Error_function>`_ at *x*"
+msgstr ""
+
+msgid ":func:`gamma(x) <gamma>`"
+msgstr ""
+
+msgid "`Gamma function <https://en.wikipedia.org/wiki/Gamma_function>`_ at *x*"
+msgstr ""
+
+msgid ":func:`lgamma(x) <lgamma>`"
+msgstr ""
+
+msgid ""
+"Natural logarithm of the absolute value of the `Gamma function <https://en."
+"wikipedia.org/wiki/Gamma_function>`_ at *x*"
+msgstr ""
+
+msgid "**Constants**"
+msgstr ""
+
+msgid ":data:`pi`"
+msgstr ""
+
+msgid "*π* = 3.141592..."
+msgstr ""
+
+msgid ":data:`e`"
+msgstr ""
+
+msgid "*e* = 2.718281..."
+msgstr ""
+
+msgid ":data:`tau`"
+msgstr ""
+
+msgid "*τ* = 2\\ *π* = 6.283185..."
+msgstr ""
+
+msgid ":data:`inf`"
+msgstr ""
+
+msgid "Positive infinity"
+msgstr ""
+
+msgid ":data:`nan`"
+msgstr ""
+
+msgid "\"Not a number\" (NaN)"
 msgstr ""
 
 msgid "Number-theoretic and representation functions"
@@ -179,30 +582,26 @@ msgstr ""
 
 msgid ""
 "Whether or not two values are considered close is determined according to "
-"given absolute and relative tolerances."
+"given absolute and relative tolerances.  If no errors occur, the result will "
+"be: ``abs(a-b) <= max(rel_tol * max(abs(a), abs(b)), abs_tol)``."
 msgstr ""
-"To czy dwie wartości są zbliżone do siebie, zależy od dostarczonej "
-"absolutnej lub relatywnej tolerancji."
 
 msgid ""
 "*rel_tol* is the relative tolerance -- it is the maximum allowed difference "
 "between *a* and *b*, relative to the larger absolute value of *a* or *b*. "
 "For example, to set a tolerance of 5%, pass ``rel_tol=0.05``.  The default "
 "tolerance is ``1e-09``, which assures that the two values are the same "
-"within about 9 decimal digits.  *rel_tol* must be greater than zero."
+"within about 9 decimal digits.  *rel_tol* must be nonnegative and less than "
+"``1.0``."
 msgstr ""
 
 msgid ""
-"*abs_tol* is the minimum absolute tolerance -- useful for comparisons near "
-"zero. *abs_tol* must be at least zero."
+"*abs_tol* is the absolute tolerance; it defaults to ``0.0`` and it must be "
+"nonnegative.  When comparing ``x`` to ``0.0``, ``isclose(x, 0)`` is computed "
+"as ``abs(x) <= rel_tol  * abs(x)``, which is ``False`` for any ``x`` and "
+"rel_tol less than ``1.0``.  So add an appropriate positive abs_tol argument "
+"to the call."
 msgstr ""
-
-msgid ""
-"If no errors occur, the result will be: ``abs(a-b) <= max(rel_tol * "
-"max(abs(a), abs(b)), abs_tol)``."
-msgstr ""
-"Jeżeli nie wystąpi żaden błąd wynikiem będzie:\n"
-" ``abs(a-b) <= max(rel_tol * max(abs(a), abs(b)), abs_tol)``."
 
 msgid ""
 "The IEEE 754 special values of ``NaN``, ``inf``, and ``-inf`` will be "
@@ -463,11 +862,11 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Return ``x`` raised to the power ``y``.  Exceptional cases follow the IEEE "
-"754 standard as far as possible.  In particular, ``pow(1.0, x)`` and "
-"``pow(x, 0.0)`` always return ``1.0``, even when ``x`` is a zero or a NaN.  "
-"If both ``x`` and ``y`` are finite, ``x`` is negative, and ``y`` is not an "
-"integer then ``pow(x, y)`` is undefined, and raises :exc:`ValueError`."
+"Return *x* raised to the power *y*.  Exceptional cases follow the IEEE 754 "
+"standard as far as possible.  In particular, ``pow(1.0, x)`` and ``pow(x, "
+"0.0)`` always return ``1.0``, even when *x* is a zero or a NaN.  If both *x* "
+"and *y* are finite, *x* is negative, and *y* is not an integer then ``pow(x, "
+"y)`` is undefined, and raises :exc:`ValueError`."
 msgstr ""
 
 msgid ""
