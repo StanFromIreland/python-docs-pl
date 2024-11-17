@@ -1171,6 +1171,15 @@ resource_name          = library--abc
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--aifc]
+file_filter            = library/aifc.po
+source_file            = gettext/library/aifc.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--aifc
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--allos]
 file_filter            = library/allos.po
 source_file            = gettext/library/allos.pot
@@ -1213,6 +1222,15 @@ source_file            = gettext/library/ast.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--ast
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--asynchat]
+file_filter            = library/asynchat.po
+source_file            = gettext/library/asynchat.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--asynchat
 replace_edited_strings = false
 keep_translations      = false
 
@@ -1369,12 +1387,30 @@ resource_name          = library--asyncio-task
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--asyncore]
+file_filter            = library/asyncore.po
+source_file            = gettext/library/asyncore.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--asyncore
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--atexit]
 file_filter            = library/atexit.po
 source_file            = gettext/library/atexit.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--atexit
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--audioop]
+file_filter            = library/audioop.po
+source_file            = gettext/library/audioop.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--audioop
 replace_edited_strings = false
 keep_translations      = false
 
@@ -1456,6 +1492,33 @@ source_file            = gettext/library/calendar.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--calendar
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--cgi]
+file_filter            = library/cgi.po
+source_file            = gettext/library/cgi.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--cgi
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--cgitb]
+file_filter            = library/cgitb.po
+source_file            = gettext/library/cgitb.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--cgitb
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--chunk]
+file_filter            = library/chunk.po
+source_file            = gettext/library/chunk.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--chunk
 replace_edited_strings = false
 keep_translations      = false
 
@@ -1630,6 +1693,15 @@ resource_name          = library--copyreg
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--crypt]
+file_filter            = library/crypt.po
+source_file            = gettext/library/crypt.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--crypt
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--crypto]
 file_filter            = library/crypto.po
 source_file            = gettext/library/crypto.pot
@@ -1798,6 +1870,15 @@ source_file            = gettext/library/distribution.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--distribution
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--distutils]
+file_filter            = library/distutils.po
+source_file            = gettext/library/distutils.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--distutils
 replace_edited_strings = false
 keep_translations      = false
 
@@ -2305,6 +2386,24 @@ resource_name          = library--imaplib
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--imghdr]
+file_filter            = library/imghdr.po
+source_file            = gettext/library/imghdr.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--imghdr
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--imp]
+file_filter            = library/imp.po
+source_file            = gettext/library/imp.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--imp
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--importlib]
 file_filter            = library/importlib.po
 source_file            = gettext/library/importlib.pot
@@ -2503,6 +2602,15 @@ resource_name          = library--mailbox
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--mailcap]
+file_filter            = library/mailcap.po
+source_file            = gettext/library/mailcap.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--mailcap
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--markup]
 file_filter            = library/markup.po
 source_file            = gettext/library/markup.pot
@@ -2575,6 +2683,15 @@ resource_name          = library--modules
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--msilib]
+file_filter            = library/msilib.po
+source_file            = gettext/library/msilib.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--msilib
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--msvcrt]
 file_filter            = library/msvcrt.po
 source_file            = gettext/library/msvcrt.pot
@@ -2617,6 +2734,24 @@ source_file            = gettext/library/netrc.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--netrc
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--nis]
+file_filter            = library/nis.po
+source_file            = gettext/library/nis.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--nis
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--nntplib]
+file_filter            = library/nntplib.po
+source_file            = gettext/library/nntplib.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--nntplib
 replace_edited_strings = false
 keep_translations      = false
 
@@ -2674,6 +2809,15 @@ resource_name          = library--os_path
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--ossaudiodev]
+file_filter            = library/ossaudiodev.po
+source_file            = gettext/library/ossaudiodev.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--ossaudiodev
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--pathlib]
 file_filter            = library/pathlib.po
 source_file            = gettext/library/pathlib.pot
@@ -2716,6 +2860,15 @@ source_file            = gettext/library/pickletools.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--pickletools
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--pipes]
+file_filter            = library/pipes.po
+source_file            = gettext/library/pipes.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--pipes
 replace_edited_strings = false
 keep_translations      = false
 
@@ -2890,6 +3043,15 @@ resource_name          = library--readline
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--removed]
+file_filter            = library/removed.po
+source_file            = gettext/library/removed.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--removed
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--reprlib]
 file_filter            = library/reprlib.po
 source_file            = gettext/library/reprlib.pot
@@ -3016,12 +3178,30 @@ resource_name          = library--site
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--smtpd]
+file_filter            = library/smtpd.po
+source_file            = gettext/library/smtpd.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--smtpd
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--smtplib]
 file_filter            = library/smtplib.po
 source_file            = gettext/library/smtplib.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--smtplib
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--sndhdr]
+file_filter            = library/sndhdr.po
+source_file            = gettext/library/sndhdr.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--sndhdr
 replace_edited_strings = false
 keep_translations      = false
 
@@ -3040,6 +3220,15 @@ source_file            = gettext/library/socketserver.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--socketserver
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--spwd]
+file_filter            = library/spwd.po
+source_file            = gettext/library/spwd.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--spwd
 replace_edited_strings = false
 keep_translations      = false
 
@@ -3124,6 +3313,15 @@ resource_name          = library--subprocess
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--sunau]
+file_filter            = library/sunau.po
+source_file            = gettext/library/sunau.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--sunau
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--superseded]
 file_filter            = library/superseded.po
 source_file            = gettext/library/superseded.pot
@@ -3202,6 +3400,15 @@ source_file            = gettext/library/tarfile.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--tarfile
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--telnetlib]
+file_filter            = library/telnetlib.po
+source_file            = gettext/library/telnetlib.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--telnetlib
 replace_edited_strings = false
 keep_translations      = false
 
@@ -3529,6 +3736,15 @@ resource_name          = library--urllib_robotparser
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--uu]
+file_filter            = library/uu.po
+source_file            = gettext/library/uu.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--uu
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--uuid]
 file_filter            = library/uuid.po
 source_file            = gettext/library/uuid.pot
@@ -3616,6 +3832,15 @@ source_file            = gettext/library/wsgiref.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = library--wsgiref
+replace_edited_strings = false
+keep_translations      = false
+
+[o:python-doc:p:python-newest:r:library--xdrlib]
+file_filter            = library/xdrlib.po
+source_file            = gettext/library/xdrlib.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--xdrlib
 replace_edited_strings = false
 keep_translations      = false
 
