@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-01 14:52+0000\n"
+"POT-Creation-Date: 2024-11-19 01:32+0000\n"
 "PO-Revision-Date: 2024-05-11 00:34+0000\n"
 "Last-Translator: Rafael Fontenelle <rffontenelle@gmail.com>, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
@@ -1291,7 +1291,7 @@ msgid "f'"
 msgstr ""
 
 msgid "formatted string literal"
-msgstr ""
+msgstr "sformatowany literał ciągu znaków"
 
 msgid "f\""
 msgstr ""
@@ -1345,22 +1345,22 @@ msgid "unrecognized escape sequence"
 msgstr ""
 
 msgid "interpolated string literal"
-msgstr ""
+msgstr "interpolowany literał ciąg znaków"
 
 msgid "string"
-msgstr ""
+msgstr "ciąg znaków"
 
 msgid "formatted literal"
-msgstr ""
+msgstr "sformatowany literał"
 
 msgid "interpolated literal"
-msgstr ""
+msgstr "interpolowany literał"
 
 msgid "f-string"
-msgstr ""
+msgstr "f-string"
 
 msgid "fstring"
-msgstr ""
+msgstr "fstring"
 
 msgid "{} (curly brackets)"
 msgstr ""
