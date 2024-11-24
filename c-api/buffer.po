@@ -394,7 +394,7 @@ msgid "readonly"
 msgstr ""
 
 msgid "format"
-msgstr ""
+msgstr "format"
 
 msgid "U"
 msgstr ""
