@@ -711,7 +711,7 @@ msgid "Ordinal dates are not currently supported (``YYYY-OOO``)."
 msgstr ""
 
 msgid "Examples::"
-msgstr ""
+msgstr "Przykłady::"
 
 msgid ""
 ">>> from datetime import date\n"

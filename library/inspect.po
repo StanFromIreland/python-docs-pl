@@ -359,7 +359,7 @@ msgid "generator"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "gi_frame"
 msgstr ""

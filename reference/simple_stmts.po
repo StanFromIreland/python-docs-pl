@@ -781,7 +781,7 @@ msgid ""
 msgstr ""
 
 msgid "Examples::"
-msgstr ""
+msgstr "Przykłady::"
 
 msgid ""
 "import foo                 # foo imported and bound locally\n"
@@ -1136,7 +1136,7 @@ msgid "binding"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "rebinding"
 msgstr ""

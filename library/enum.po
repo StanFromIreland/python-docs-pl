@@ -484,7 +484,7 @@ msgid ""
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "The name of the member being defined (e.g. 'RED')."
 msgstr ""

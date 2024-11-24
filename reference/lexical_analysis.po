@@ -1214,7 +1214,7 @@ msgid "identifier"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "keyword"
 msgstr ""

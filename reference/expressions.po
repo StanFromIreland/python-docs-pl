@@ -2087,7 +2087,7 @@ msgid "atom"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "identifier"
 msgstr ""
