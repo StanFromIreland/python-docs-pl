@@ -533,7 +533,7 @@ msgid "Special read-only attributes"
 msgstr ""
 
 msgid "Attribute"
-msgstr ""
+msgstr "atrybut"
 
 msgid "Meaning"
 msgstr "Znaczenie"
@@ -3790,7 +3790,7 @@ msgid "id"
 msgstr ""
 
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 msgid "identity of an object"
 msgstr ""
@@ -3829,7 +3829,7 @@ msgid "module"
 msgstr "moduł"
 
 msgid "C"
-msgstr ""
+msgstr "C"
 
 msgid "language"
 msgstr ""
@@ -3955,7 +3955,7 @@ msgid "collections"
 msgstr ""
 
 msgid "list"
-msgstr ""
+msgstr "lista"
 
 msgid "bytearray"
 msgstr ""
@@ -4042,7 +4042,7 @@ msgid "__type_params__ (function attribute)"
 msgstr ""
 
 msgid "method"
-msgstr ""
+msgstr "metoda"
 
 msgid "user-defined method"
 msgstr ""
@@ -4066,7 +4066,7 @@ msgid "generator"
 msgstr ""
 
 msgid "iterator"
-msgstr ""
+msgstr "iterator"
 
 msgid "coroutine"
 msgstr ""
@@ -4117,7 +4117,7 @@ msgid "__dict__ (module attribute)"
 msgstr ""
 
 msgid "class"
-msgstr ""
+msgstr "klasa"
 
 msgid "class instance"
 msgstr ""

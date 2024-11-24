@@ -345,7 +345,7 @@ msgid ""
 msgstr ""
 
 msgid "class"
-msgstr ""
+msgstr "klasa"
 
 msgid ""
 "A template for creating user-defined objects. Class definitions normally "
@@ -1043,7 +1043,7 @@ msgid ""
 msgstr ""
 
 msgid "interactive"
-msgstr ""
+msgstr "interaktywne"
 
 msgid ""
 "Python has an interactive interpreter which means you can enter statements "
@@ -1055,7 +1055,7 @@ msgid ""
 msgstr ""
 
 msgid "interpreted"
-msgstr ""
+msgstr "zinterpretowane"
 
 msgid ""
 "Python is an interpreted language, as opposed to a compiled one, though the "
@@ -1110,7 +1110,7 @@ msgid ""
 msgstr ""
 
 msgid "iterator"
-msgstr ""
+msgstr "iterator"
 
 msgid ""
 "An object representing a stream of data.  Repeated calls to the iterator's :"
@@ -1171,7 +1171,7 @@ msgid "See :term:`argument`."
 msgstr ""
 
 msgid "lambda"
-msgstr ""
+msgstr "lambda"
 
 msgid ""
 "An anonymous inline function consisting of a single :term:`expression` which "
@@ -1198,7 +1198,7 @@ msgid ""
 msgstr ""
 
 msgid "list"
-msgstr ""
+msgstr "lista"
 
 msgid ""
 "A built-in Python :term:`sequence`.  Despite its name it is more akin to an "
@@ -1306,7 +1306,7 @@ msgid "More information can be found in :ref:`metaclasses`."
 msgstr ""
 
 msgid "method"
-msgstr ""
+msgstr "metoda"
 
 msgid ""
 "A function which is defined inside a class body.  If called as an attribute "
@@ -1945,7 +1945,7 @@ msgid ""
 msgstr ""
 
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 msgid ""
 "The type of a Python object determines what kind of object it is; every "
