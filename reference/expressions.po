@@ -2099,7 +2099,7 @@ msgid "NameError"
 msgstr ""
 
 msgid "mangling"
-msgstr ""
+msgstr "maglowanie"
 
 msgid "private"
 msgstr ""
@@ -2543,7 +2543,7 @@ msgid "Conditional"
 msgstr ""
 
 msgid "Boolean"
-msgstr ""
+msgstr "Wartość logiczna"
 
 msgid "not"
 msgstr ""

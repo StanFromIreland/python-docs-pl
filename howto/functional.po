@@ -550,7 +550,7 @@ msgid ""
 msgstr ""
 
 msgid "Generators"
-msgstr ""
+msgstr "Generatory"
 
 msgid ""
 "Generators are a special class of functions that simplify the task of "

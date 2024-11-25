@@ -413,7 +413,7 @@ msgid ""
 msgstr ""
 
 msgid "``'+'``"
-msgstr ""
+msgstr "``'+'``"
 
 msgid ""
 "indicates that a sign should be used for both positive as well as negative "
@@ -556,7 +556,7 @@ msgid "Octal format. Outputs the number in base 8."
 msgstr ""
 
 msgid "``'x'``"
-msgstr ""
+msgstr "``'x'``"
 
 msgid ""
 "Hex format. Outputs the number in base 16, using lower-case letters for the "

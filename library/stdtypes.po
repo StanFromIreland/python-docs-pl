@@ -2745,7 +2745,7 @@ msgid ""
 msgstr ""
 
 msgid "``'+'``"
-msgstr ""
+msgstr "``'+'``"
 
 msgid ""
 "A sign character (``'+'`` or ``'-'``) will precede the conversion (overrides "
@@ -2785,7 +2785,7 @@ msgid "Obsolete type -- it is identical to ``'d'``."
 msgstr ""
 
 msgid "``'x'``"
-msgstr ""
+msgstr "``'x'``"
 
 msgid "Signed hexadecimal (lowercase)."
 msgstr ""
@@ -2840,7 +2840,7 @@ msgid "Single character (accepts integer or single character string)."
 msgstr ""
 
 msgid "``'r'``"
-msgstr ""
+msgstr "``'r'``"
 
 msgid "String (converts any Python object using :func:`repr`)."
 msgstr ""
@@ -2852,7 +2852,7 @@ msgid "String (converts any Python object using :func:`str`)."
 msgstr ""
 
 msgid "``'a'``"
-msgstr ""
+msgstr "``'a'``"
 
 msgid "String (converts any Python object using :func:`ascii`)."
 msgstr ""
@@ -6145,7 +6145,7 @@ msgid "value"
 msgstr ""
 
 msgid "Boolean"
-msgstr ""
+msgstr "Wartość logiczna"
 
 msgid "operations"
 msgstr ""
@@ -6640,7 +6640,7 @@ msgid "__code__ (function object attribute)"
 msgstr ""
 
 msgid "exec"
-msgstr ""
+msgstr "exec"
 
 msgid "eval"
 msgstr ""

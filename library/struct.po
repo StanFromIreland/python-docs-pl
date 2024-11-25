@@ -147,7 +147,7 @@ msgid ""
 msgstr ""
 
 msgid "Character"
-msgstr ""
+msgstr "Znak"
 
 msgid "Byte order"
 msgstr ""

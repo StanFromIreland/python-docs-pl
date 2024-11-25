@@ -1397,7 +1397,7 @@ msgid "identifier list"
 msgstr ""
 
 msgid "exec"
-msgstr ""
+msgstr "exec"
 
 msgid "eval"
 msgstr ""

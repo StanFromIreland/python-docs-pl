@@ -1673,31 +1673,31 @@ msgid ""
 msgstr ""
 
 msgid "Character"
-msgstr ""
+msgstr "Znak"
 
 msgid "Meaning"
 msgstr "Znaczenie"
 
 msgid "``'r'``"
-msgstr ""
+msgstr "``'r'``"
 
 msgid "open for reading (default)"
 msgstr ""
 
 msgid "``'w'``"
-msgstr ""
+msgstr "``'w'``"
 
 msgid "open for writing, truncating the file first"
 msgstr ""
 
 msgid "``'x'``"
-msgstr ""
+msgstr "``'x'``"
 
 msgid "open for exclusive creation, failing if the file already exists"
 msgstr ""
 
 msgid "``'a'``"
-msgstr ""
+msgstr "``'a'``"
 
 msgid "open for writing, appending to the end of file if it exists"
 msgstr ""
@@ -1709,13 +1709,13 @@ msgid "binary mode"
 msgstr ""
 
 msgid "``'t'``"
-msgstr ""
+msgstr "``'t'``"
 
 msgid "text mode (default)"
 msgstr ""
 
 msgid "``'+'``"
-msgstr ""
+msgstr "``'+'``"
 
 msgid "open for updating (reading and writing)"
 msgstr ""
@@ -2790,7 +2790,7 @@ msgstr ""
 "style końca linii Winows albo Mac."
 
 msgid "Boolean"
-msgstr ""
+msgstr "Wartość logiczna"
 
 msgid "type"
 msgstr "typ"
@@ -2799,16 +2799,16 @@ msgid "built-in function"
 msgstr "funkcja wbudowana"
 
 msgid "exec"
-msgstr ""
+msgstr "exec"
 
 msgid "NaN"
-msgstr ""
+msgstr "NaN"
 
 msgid "Infinity"
-msgstr ""
+msgstr "Nieskończoność"
 
 msgid "__format__"
-msgstr ""
+msgstr "__format__"
 
 msgid "string"
 msgstr "ciąg znaków"

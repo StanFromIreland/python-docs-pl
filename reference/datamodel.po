@@ -3859,7 +3859,7 @@ msgid "representation"
 msgstr ""
 
 msgid "Boolean"
-msgstr ""
+msgstr "Wartość logiczna"
 
 msgid "False"
 msgstr ""
