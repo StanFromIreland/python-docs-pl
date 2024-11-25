@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+# Krótka wycieczka po Bibliotece Standardowej.
 # Copyright (C) 2001-2024, Python Software Foundation
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -500,7 +500,7 @@ msgid ""
 msgstr ""
 "Na przykład kuszące może być użycie funkcji pakowania i rozpakowywania "
 "krotka zamiast tradycyjnego podejścia do zamiany argument. Moduł :mod:"
-"`timeit`szybko pokazuje skromną przewagę wydajności::"
+"`timeit` szybko pokazuje skromną przewagę wydajności::"
 
 msgid ""
 ">>> from timeit import Timer\n"
