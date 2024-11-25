@@ -1377,7 +1377,7 @@ msgid ""
 msgstr ""
 
 msgid "help"
-msgstr ""
+msgstr "pomoc"
 
 msgid ""
 "The ``help`` value is a string containing a brief description of the "
