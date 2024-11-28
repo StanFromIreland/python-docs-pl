@@ -4084,7 +4084,7 @@ msgid "built-in"
 msgstr ""
 
 msgid "import"
-msgstr ""
+msgstr "import"
 
 msgid "__name__ (module attribute)"
 msgstr ""
@@ -4393,7 +4393,7 @@ msgid "__str__() (object method)"
 msgstr ""
 
 msgid "format() (built-in function)"
-msgstr ""
+msgstr "format() (wbudowana funkcja)"
 
 msgid "print() (built-in function)"
 msgstr ""

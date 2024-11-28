@@ -255,7 +255,7 @@ msgid ""
 msgstr ""
 
 msgid "Example:"
-msgstr ""
+msgstr "Przykład:"
 
 msgid ""
 "def greet_all(names: list[str]) -> None:\n"

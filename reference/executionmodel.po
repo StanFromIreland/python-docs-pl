@@ -323,7 +323,7 @@ msgid ""
 msgstr ""
 
 msgid "Example:"
-msgstr ""
+msgstr "Przykład:"
 
 msgid ""
 ">>> type Alias = 1/0\n"

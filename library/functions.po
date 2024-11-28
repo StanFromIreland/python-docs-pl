@@ -753,7 +753,7 @@ msgid ""
 msgstr ""
 
 msgid "Examples:"
-msgstr ""
+msgstr "Przykłady:"
 
 msgid ""
 ">>> complex('+1.23')\n"
@@ -947,13 +947,13 @@ msgid "The local namespace (default: ``None``)."
 msgstr ""
 
 msgid "Returns"
-msgstr ""
+msgstr "Zwraca"
 
 msgid "The result of the evaluated expression."
 msgstr ""
 
 msgid "raises"
-msgstr ""
+msgstr "rzuca"
 
 msgid "Syntax errors are reported as exceptions."
 msgstr ""
@@ -982,7 +982,7 @@ msgid ""
 msgstr ""
 
 msgid "Example:"
-msgstr ""
+msgstr "Przykład:"
 
 msgid ""
 "This function can also be used to execute arbitrary code objects (such as "
@@ -1706,7 +1706,7 @@ msgid "``'b'``"
 msgstr "``'b'``"
 
 msgid "binary mode"
-msgstr ""
+msgstr "tryb binarny"
 
 msgid "``'t'``"
 msgstr "``'t'``"
@@ -2521,7 +2521,7 @@ msgid ""
 msgstr ""
 
 msgid "See also:"
-msgstr ""
+msgstr "Zobacz także:"
 
 msgid ""
 ":ref:`Documentation on attributes and methods on classes <class-attrs-and-"
@@ -2529,7 +2529,7 @@ msgid ""
 msgstr ""
 
 msgid ":ref:`bltin-type-objects`"
-msgstr ""
+msgstr ":ref:`bltin-type-objects`"
 
 msgid ""
 "Keyword arguments provided to the three argument form are passed to the "
@@ -2539,7 +2539,7 @@ msgid ""
 msgstr ""
 
 msgid "See also :ref:`class-customization`."
-msgstr ""
+msgstr "Zobacz także :ref:`class-customization`."
 
 msgid ""
 "Subclasses of :class:`!type` which don't override ``type.__new__`` may no "
@@ -2658,7 +2658,7 @@ msgid ""
 msgstr ""
 
 msgid "Tips and tricks:"
-msgstr ""
+msgstr "Wskazówki i porady:"
 
 msgid ""
 "The left-to-right evaluation order of the iterables is guaranteed. This "
@@ -2814,22 +2814,22 @@ msgid "string"
 msgstr "ciąg znaków"
 
 msgid "format() (built-in function)"
-msgstr ""
+msgstr "format() (wbudowana funkcja)"
 
 msgid "file object"
-msgstr ""
+msgstr "obiekt plik"
 
 msgid "open() built-in function"
-msgstr ""
+msgstr "open() wbudowana funkcja"
 
 msgid "file"
 msgstr "plik"
 
 msgid "modes"
-msgstr ""
+msgstr "tryby"
 
 msgid "universal newlines"
-msgstr ""
+msgstr "uniwersalne nowe linie"
 
 msgid "line-buffered I/O"
 msgstr ""
@@ -2844,10 +2844,10 @@ msgid "I/O control"
 msgstr ""
 
 msgid "buffering"
-msgstr ""
+msgstr "buforowanie"
 
 msgid "text mode"
-msgstr ""
+msgstr "tryb tekstowy"
 
 msgid "module"
 msgstr "moduł"
@@ -2856,7 +2856,7 @@ msgid "sys"
 msgstr "sys"
 
 msgid "str() (built-in function)"
-msgstr ""
+msgstr "str() (wbudowana funkcja)"
 
 msgid "object"
 msgstr "obiekt"
@@ -2865,7 +2865,7 @@ msgid "statement"
 msgstr "instrukcja"
 
 msgid "import"
-msgstr ""
+msgstr "import"
 
 msgid "builtins"
 msgstr "builtins"

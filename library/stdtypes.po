@@ -6517,7 +6517,7 @@ msgid "re"
 msgstr ""
 
 msgid "universal newlines"
-msgstr ""
+msgstr "uniwersalne nowe linie"
 
 msgid "str.splitlines method"
 msgstr ""

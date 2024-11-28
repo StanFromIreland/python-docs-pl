@@ -2214,7 +2214,7 @@ msgid "I/O control"
 msgstr ""
 
 msgid "buffering"
-msgstr ""
+msgstr "buforowanie"
 
 msgid "module"
 msgstr "moduł"

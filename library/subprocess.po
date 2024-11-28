@@ -1751,7 +1751,7 @@ msgid "``_USE_VFORK``"
 msgstr ""
 
 msgid "universal newlines"
-msgstr ""
+msgstr "uniwersalne nowe linie"
 
 msgid "subprocess module"
 msgstr ""

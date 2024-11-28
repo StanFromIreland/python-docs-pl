@@ -671,7 +671,7 @@ msgid ""
 msgstr ""
 
 msgid "file object"
-msgstr ""
+msgstr "obiekt plik"
 
 msgid ""
 "An object exposing a file-oriented API (with methods such as :meth:`!read` "
@@ -2003,7 +2003,7 @@ msgid ""
 msgstr ""
 
 msgid "universal newlines"
-msgstr ""
+msgstr "uniwersalne nowe linie"
 
 msgid ""
 "A manner of interpreting text streams in which all of the following are "
