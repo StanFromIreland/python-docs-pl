@@ -149,7 +149,7 @@ msgid "POSIX"
 msgstr ""
 
 msgid "I/O control"
-msgstr ""
+msgstr "Kontrola I/O"
 
 msgid "tty"
 msgstr ""

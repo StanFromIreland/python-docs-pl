@@ -2211,7 +2211,7 @@ msgid "socket"
 msgstr ""
 
 msgid "I/O control"
-msgstr ""
+msgstr "Kontrola I/O"
 
 msgid "buffering"
 msgstr "buforowanie"
