@@ -811,7 +811,7 @@ msgid "If all arguments are omitted, returns ``0j``."
 msgstr ""
 
 msgid "The complex type is described in :ref:`typesnumeric`."
-msgstr ""
+msgstr "Typ Complex został opisany na stronie :ref:`typesnumeric`."
 
 msgid "Grouping digits with underscores as in code literals is allowed."
 msgstr ""
@@ -938,10 +938,10 @@ msgid "Parameters"
 msgstr "parametry"
 
 msgid "A Python expression."
-msgstr ""
+msgstr "Expresja Python."
 
 msgid "The global namespace (default: ``None``)."
-msgstr ""
+msgstr "Globalna przestrzeń nazw (domyślny: ``None``)."
 
 msgid "The local namespace (default: ``None``)."
 msgstr ""
@@ -956,7 +956,7 @@ msgid "raises"
 msgstr "rzuca"
 
 msgid "Syntax errors are reported as exceptions."
-msgstr ""
+msgstr "Błędy składni są zgłaszane jako wyjątki."
 
 msgid ""
 "This function executes arbitrary code. Calling it with user-supplied input "
@@ -1148,7 +1148,7 @@ msgid "If no argument is given, ``0.0`` is returned."
 msgstr ""
 
 msgid "The float type is described in :ref:`typesnumeric`."
-msgstr ""
+msgstr "Typ float został opisany na stronie :ref:`typesnumeric`."
 
 msgid ""
 "Falls back to :meth:`~object.__index__` if :meth:`~object.__float__` is not "
@@ -1443,7 +1443,7 @@ msgid ""
 msgstr ""
 
 msgid "See also :ref:`typeiter`."
-msgstr ""
+msgstr "Zobacz także :ref:`typeiter`."
 
 msgid ""
 "One useful application of the second form of :func:`iter` is to build a "
@@ -1682,13 +1682,13 @@ msgid "``'r'``"
 msgstr "``'r'``"
 
 msgid "open for reading (default)"
-msgstr ""
+msgstr "otwarte do czytania (domyślny)"
 
 msgid "``'w'``"
 msgstr "``'w'``"
 
 msgid "open for writing, truncating the file first"
-msgstr ""
+msgstr "otworzyć do zapisu, najpierw obcinając plik"
 
 msgid "``'x'``"
 msgstr "``'x'``"
@@ -1862,7 +1862,7 @@ msgid ""
 msgstr ""
 
 msgid "The newly created file is :ref:`non-inheritable <fd_inheritance>`."
-msgstr ""
+msgstr "Nowo utworzony plik jest :ref:`non-inheritable <fd_inheritance>`."
 
 msgid ""
 "The following example uses the :ref:`dir_fd <dir_fd>` parameter of the :func:"
@@ -1926,7 +1926,7 @@ msgid ""
 msgstr ""
 
 msgid "The file is now non-inheritable."
-msgstr ""
+msgstr "Plik nie jest teraz dziedziczony."
 
 msgid ""
 "If the system call is interrupted and the signal handler does not raise an "
@@ -1946,7 +1946,7 @@ msgid ""
 msgstr ""
 
 msgid "The ``'U'`` mode has been removed."
-msgstr ""
+msgstr "Tryb ``'U'`` został usunięty."
 
 msgid ""
 "Given a string representing one Unicode character, return an integer "
@@ -2732,7 +2732,7 @@ msgid ""
 msgstr ""
 
 msgid "spam = __import__('spam', globals(), locals(), [], 0)"
-msgstr ""
+msgstr "spam = __import__('spam', globals(), locals(), [], 0)"
 
 msgid "The statement ``import spam.ham`` results in this call::"
 msgstr ""
