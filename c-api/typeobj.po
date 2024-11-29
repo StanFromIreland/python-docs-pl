@@ -7,15 +7,16 @@
 # Maciej Olko <maciej.olko@gmail.com>, 2023
 # haaritsubaki, 2023
 # Stan U, 2024
+# Rafael Fontenelle <rffontenelle@gmail.com>, 2024
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-22 14:17+0000\n"
+"POT-Creation-Date: 2024-11-29 14:18+0000\n"
 "PO-Revision-Date: 2021-06-28 00:50+0000\n"
-"Last-Translator: Stan U, 2024\n"
+"Last-Translator: Rafael Fontenelle <rffontenelle@gmail.com>, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -153,7 +154,7 @@ msgid ":c:type:`reprfunc`"
 msgstr ""
 
 msgid "__repr__"
-msgstr ""
+msgstr "__repr__"
 
 msgid ":c:member:`~PyTypeObject.tp_as_number`"
 msgstr ""
@@ -180,7 +181,7 @@ msgid ":c:type:`hashfunc`"
 msgstr ""
 
 msgid "__hash__"
-msgstr ""
+msgstr "__hash__"
 
 msgid ":c:member:`~PyTypeObject.tp_call`"
 msgstr ""
@@ -189,13 +190,13 @@ msgid ":c:type:`ternaryfunc`"
 msgstr ""
 
 msgid "__call__"
-msgstr ""
+msgstr "__call__"
 
 msgid ":c:member:`~PyTypeObject.tp_str`"
 msgstr ""
 
 msgid "__str__"
-msgstr ""
+msgstr "__str__"
 
 msgid ":c:member:`~PyTypeObject.tp_getattro`"
 msgstr ""
@@ -228,7 +229,7 @@ msgid ":c:member:`~PyTypeObject.tp_doc`"
 msgstr ""
 
 msgid "__doc__"
-msgstr ""
+msgstr "__doc__"
 
 msgid ":c:member:`~PyTypeObject.tp_traverse`"
 msgstr ""
@@ -261,7 +262,7 @@ msgid ":c:type:`getiterfunc`"
 msgstr ""
 
 msgid "__iter__"
-msgstr ""
+msgstr "__iter__"
 
 msgid ":c:member:`~PyTypeObject.tp_iternext`"
 msgstr ""
@@ -270,7 +271,7 @@ msgid ":c:type:`iternextfunc`"
 msgstr ""
 
 msgid "__next__"
-msgstr ""
+msgstr "__next__"
 
 msgid ":c:member:`~PyTypeObject.tp_methods`"
 msgstr ""
@@ -297,7 +298,7 @@ msgid ":c:type:`PyTypeObject` *"
 msgstr ""
 
 msgid "__base__"
-msgstr ""
+msgstr "__base__"
 
 msgid ":c:member:`~PyTypeObject.tp_dict`"
 msgstr ""
@@ -351,7 +352,7 @@ msgid ":c:type:`newfunc`"
 msgstr ""
 
 msgid "__new__"
-msgstr ""
+msgstr "__new__"
 
 msgid ":c:member:`~PyTypeObject.tp_free`"
 msgstr ""
@@ -369,13 +370,13 @@ msgid "__bases__"
 msgstr ""
 
 msgid "~"
-msgstr ""
+msgstr "~"
 
 msgid "<:c:member:`~PyTypeObject.tp_mro`>"
 msgstr ""
 
 msgid "__mro__"
-msgstr ""
+msgstr "__mro__"
 
 msgid "[:c:member:`~PyTypeObject.tp_cache`]"
 msgstr ""
@@ -387,7 +388,7 @@ msgid "void *"
 msgstr ""
 
 msgid "__subclasses__"
-msgstr ""
+msgstr "__subclasses__"
 
 msgid "[:c:member:`~PyTypeObject.tp_weaklist`]"
 msgstr ""
@@ -2040,7 +2041,7 @@ msgid "``!=``"
 msgstr "``!=``"
 
 msgid "``>``"
-msgstr ""
+msgstr "``>``"
 
 msgid "``>=``"
 msgstr "``>=``"
