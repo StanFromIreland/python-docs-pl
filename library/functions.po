@@ -1447,7 +1447,7 @@ msgid ""
 msgstr ""
 
 msgid "The delegation to :meth:`~object.__trunc__` is deprecated."
-msgstr ""
+msgstr "Delegacja do :meth:`~object.__trunc__` jest zdezaprobowana."
 
 msgid ""
 ":class:`int` string inputs and string representations can be limited to help "
@@ -2383,7 +2383,7 @@ msgid ""
 msgstr ""
 
 msgid "Transform a method into a static method."
-msgstr ""
+msgstr "Przekształcenie metody w metodę statyczną."
 
 msgid ""
 "A static method does not receive an implicit first argument. To declare a "
