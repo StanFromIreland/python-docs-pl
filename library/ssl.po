@@ -958,22 +958,22 @@ msgid "SSL sockets provide the following methods of :ref:`socket-objects`:"
 msgstr ""
 
 msgid ":meth:`~socket.socket.accept`"
-msgstr ""
+msgstr ":meth:`~socket.socket.accept`"
 
 msgid ":meth:`~socket.socket.bind`"
-msgstr ""
+msgstr ":meth:`~socket.socket.bind`"
 
 msgid ":meth:`~socket.socket.close`"
-msgstr ""
+msgstr ":meth:`~socket.socket.close`"
 
 msgid ":meth:`~socket.socket.connect`"
-msgstr ""
+msgstr ":meth:`~socket.socket.connect`"
 
 msgid ":meth:`~socket.socket.detach`"
-msgstr ""
+msgstr ":meth:`~socket.socket.detach`"
 
 msgid ":meth:`~socket.socket.fileno`"
-msgstr ""
+msgstr ":meth:`~socket.socket.fileno`"
 
 msgid ":meth:`~socket.socket.getpeername`, :meth:`~socket.socket.getsockname`"
 msgstr ""
@@ -987,10 +987,10 @@ msgid ""
 msgstr ""
 
 msgid ":meth:`~socket.socket.listen`"
-msgstr ""
+msgstr ":meth:`~socket.socket.listen`"
 
 msgid ":meth:`~socket.socket.makefile`"
-msgstr ""
+msgstr ":meth:`~socket.socket.makefile`"
 
 msgid ""
 ":meth:`~socket.socket.recv`, :meth:`~socket.socket.recv_into` (but passing a "
@@ -1008,7 +1008,7 @@ msgid ""
 msgstr ""
 
 msgid ":meth:`~socket.socket.shutdown`"
-msgstr ""
+msgstr ":meth:`~socket.socket.shutdown`"
 
 msgid ""
 "However, since the SSL (and TLS) protocol has its own framing atop of TCP, "
@@ -2685,10 +2685,10 @@ msgid ":meth:`~SSLSocket.getpeercert`"
 msgstr ":meth:`~SSLSocket.getpeercert`"
 
 msgid ":meth:`~SSLSocket.get_verified_chain`"
-msgstr ""
+msgstr ":meth:`~SSLSocket.get_verified_chain`"
 
 msgid ":meth:`~SSLSocket.get_unverified_chain`"
-msgstr ""
+msgstr ":meth:`~SSLSocket.get_unverified_chain`"
 
 msgid ":meth:`~SSLSocket.selected_alpn_protocol`"
 msgstr ":meth:`~SSLSocket.selected_alpn_protocol`"

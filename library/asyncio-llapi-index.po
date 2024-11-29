@@ -100,19 +100,19 @@ msgid "Close the event loop."
 msgstr ""
 
 msgid ":meth:`loop.is_running`"
-msgstr ""
+msgstr ":meth:`loop.is_running`"
 
 msgid "Return ``True`` if the event loop is running."
 msgstr ""
 
 msgid ":meth:`loop.is_closed`"
-msgstr ""
+msgstr ":meth:`loop.is_closed`"
 
 msgid "Return ``True`` if the event loop is closed."
 msgstr ""
 
 msgid "``await`` :meth:`loop.shutdown_asyncgens`"
-msgstr ""
+msgstr "``await`` :meth:`loop.shutdown_asyncgens`"
 
 msgid "Close asynchronous generators."
 msgstr ""
@@ -163,7 +163,7 @@ msgid "Thread/Process Pool"
 msgstr ""
 
 msgid "``await`` :meth:`loop.run_in_executor`"
-msgstr ""
+msgstr "``await`` :meth:`loop.run_in_executor`"
 
 msgid ""
 "Run a CPU-bound or other blocking function in a :mod:`concurrent.futures` "
@@ -211,13 +211,13 @@ msgid "DNS"
 msgstr ""
 
 msgid "``await`` :meth:`loop.getaddrinfo`"
-msgstr ""
+msgstr "``await`` :meth:`loop.getaddrinfo`"
 
 msgid "Asynchronous version of :meth:`socket.getaddrinfo`."
 msgstr ""
 
 msgid "``await`` :meth:`loop.getnameinfo`"
-msgstr ""
+msgstr "``await`` :meth:`loop.getnameinfo`"
 
 msgid "Asynchronous version of :meth:`socket.getnameinfo`."
 msgstr ""
@@ -226,61 +226,61 @@ msgid "Networking and IPC"
 msgstr ""
 
 msgid "``await`` :meth:`loop.create_connection`"
-msgstr ""
+msgstr "``await`` :meth:`loop.create_connection`"
 
 msgid "Open a TCP connection."
 msgstr ""
 
 msgid "``await`` :meth:`loop.create_server`"
-msgstr ""
+msgstr "``await`` :meth:`loop.create_server`"
 
 msgid "Create a TCP server."
 msgstr ""
 
 msgid "``await`` :meth:`loop.create_unix_connection`"
-msgstr ""
+msgstr "``await`` :meth:`loop.create_unix_connection`"
 
 msgid "Open a Unix socket connection."
 msgstr ""
 
 msgid "``await`` :meth:`loop.create_unix_server`"
-msgstr ""
+msgstr "``await`` :meth:`loop.create_unix_server`"
 
 msgid "Create a Unix socket server."
 msgstr ""
 
 msgid "``await`` :meth:`loop.connect_accepted_socket`"
-msgstr ""
+msgstr "``await`` :meth:`loop.connect_accepted_socket`"
 
 msgid "Wrap a :class:`~socket.socket` into a ``(transport, protocol)`` pair."
 msgstr ""
 
 msgid "``await`` :meth:`loop.create_datagram_endpoint`"
-msgstr ""
+msgstr "``await`` :meth:`loop.create_datagram_endpoint`"
 
 msgid "Open a datagram (UDP) connection."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sendfile`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sendfile`"
 
 msgid "Send a file over a transport."
 msgstr ""
 
 msgid "``await`` :meth:`loop.start_tls`"
-msgstr ""
+msgstr "``await`` :meth:`loop.start_tls`"
 
 msgid "Upgrade an existing connection to TLS."
 msgstr ""
 
 msgid "``await`` :meth:`loop.connect_read_pipe`"
-msgstr ""
+msgstr "``await`` :meth:`loop.connect_read_pipe`"
 
 msgid "Wrap a read end of a pipe into a ``(transport, protocol)`` pair."
 msgstr ""
 
 msgid "``await`` :meth:`loop.connect_write_pipe`"
-msgstr ""
+msgstr "``await`` :meth:`loop.connect_write_pipe`"
 
 msgid "Wrap a write end of a pipe into a ``(transport, protocol)`` pair."
 msgstr ""
@@ -289,13 +289,13 @@ msgid "Sockets"
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_recv`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_recv`"
 
 msgid "Receive data from the :class:`~socket.socket`."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_recv_into`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_recv_into`"
 
 msgid "Receive data from the :class:`~socket.socket` into a buffer."
 msgstr ""
@@ -313,7 +313,7 @@ msgid "Receive a datagram from the :class:`~socket.socket` into a buffer."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_sendall`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_sendall`"
 
 msgid "Send data to the :class:`~socket.socket`."
 msgstr ""
@@ -325,19 +325,19 @@ msgid "Send a datagram via the :class:`~socket.socket` to the given address."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_connect`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_connect`"
 
 msgid "Connect the :class:`~socket.socket`."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_accept`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_accept`"
 
 msgid "Accept a :class:`~socket.socket` connection."
 msgstr ""
 
 msgid "``await`` :meth:`loop.sock_sendfile`"
-msgstr ""
+msgstr "``await`` :meth:`loop.sock_sendfile`"
 
 msgid "Send a file over the :class:`~socket.socket`."
 msgstr ""
@@ -459,31 +459,31 @@ msgid "All transports implement the following methods:"
 msgstr ""
 
 msgid ":meth:`transport.close() <BaseTransport.close>`"
-msgstr ""
+msgstr ":meth:`transport.close() <BaseTransport.close>`"
 
 msgid "Close the transport."
 msgstr ""
 
 msgid ":meth:`transport.is_closing() <BaseTransport.is_closing>`"
-msgstr ""
+msgstr ":meth:`transport.is_closing() <BaseTransport.is_closing>`"
 
 msgid "Return ``True`` if the transport is closing or is closed."
 msgstr ""
 
 msgid ":meth:`transport.get_extra_info() <BaseTransport.get_extra_info>`"
-msgstr ""
+msgstr ":meth:`transport.get_extra_info() <BaseTransport.get_extra_info>`"
 
 msgid "Request for information about the transport."
 msgstr ""
 
 msgid ":meth:`transport.set_protocol() <BaseTransport.set_protocol>`"
-msgstr ""
+msgstr ":meth:`transport.set_protocol() <BaseTransport.set_protocol>`"
 
 msgid "Set a new protocol."
 msgstr ""
 
 msgid ":meth:`transport.get_protocol() <BaseTransport.get_protocol>`"
-msgstr ""
+msgstr ":meth:`transport.get_protocol() <BaseTransport.get_protocol>`"
 
 msgid "Return the current protocol."
 msgstr ""
@@ -498,19 +498,19 @@ msgid "Read Transports"
 msgstr ""
 
 msgid ":meth:`transport.is_reading() <ReadTransport.is_reading>`"
-msgstr ""
+msgstr ":meth:`transport.is_reading() <ReadTransport.is_reading>`"
 
 msgid "Return ``True`` if the transport is receiving."
 msgstr ""
 
 msgid ":meth:`transport.pause_reading() <ReadTransport.pause_reading>`"
-msgstr ""
+msgstr ":meth:`transport.pause_reading() <ReadTransport.pause_reading>`"
 
 msgid "Pause receiving."
 msgstr ""
 
 msgid ":meth:`transport.resume_reading() <ReadTransport.resume_reading>`"
-msgstr ""
+msgstr ":meth:`transport.resume_reading() <ReadTransport.resume_reading>`"
 
 msgid "Resume receiving."
 msgstr ""
@@ -525,31 +525,31 @@ msgid "Write Transports"
 msgstr ""
 
 msgid ":meth:`transport.write() <WriteTransport.write>`"
-msgstr ""
+msgstr ":meth:`transport.write() <WriteTransport.write>`"
 
 msgid "Write data to the transport."
 msgstr ""
 
 msgid ":meth:`transport.writelines() <WriteTransport.writelines>`"
-msgstr ""
+msgstr ":meth:`transport.writelines() <WriteTransport.writelines>`"
 
 msgid "Write buffers to the transport."
 msgstr ""
 
 msgid ":meth:`transport.can_write_eof() <WriteTransport.can_write_eof>`"
-msgstr ""
+msgstr ":meth:`transport.can_write_eof() <WriteTransport.can_write_eof>`"
 
 msgid "Return :const:`True` if the transport supports sending EOF."
 msgstr ""
 
 msgid ":meth:`transport.write_eof() <WriteTransport.write_eof>`"
-msgstr ""
+msgstr ":meth:`transport.write_eof() <WriteTransport.write_eof>`"
 
 msgid "Close and send EOF after flushing buffered data."
 msgstr ""
 
 msgid ":meth:`transport.abort() <WriteTransport.abort>`"
-msgstr ""
+msgstr ":meth:`transport.abort() <WriteTransport.abort>`"
 
 msgid "Close the transport immediately."
 msgstr ""
@@ -558,6 +558,8 @@ msgid ""
 ":meth:`transport.get_write_buffer_size() <WriteTransport."
 "get_write_buffer_size>`"
 msgstr ""
+":meth:`transport.get_write_buffer_size() <WriteTransport."
+"get_write_buffer_size>`"
 
 msgid "Return the current size of the output buffer."
 msgstr ""
@@ -574,6 +576,8 @@ msgid ""
 ":meth:`transport.set_write_buffer_limits() <WriteTransport."
 "set_write_buffer_limits>`"
 msgstr ""
+":meth:`transport.set_write_buffer_limits() <WriteTransport."
+"set_write_buffer_limits>`"
 
 msgid "Set new high and low water marks for write flow control."
 msgstr ""
@@ -585,13 +589,13 @@ msgid "Datagram Transports"
 msgstr ""
 
 msgid ":meth:`transport.sendto() <DatagramTransport.sendto>`"
-msgstr ""
+msgstr ":meth:`transport.sendto() <DatagramTransport.sendto>`"
 
 msgid "Send data to the remote peer."
 msgstr ""
 
 msgid ":meth:`transport.abort() <DatagramTransport.abort>`"
-msgstr ""
+msgstr ":meth:`transport.abort() <DatagramTransport.abort>`"
 
 msgid ""
 "Low-level transport abstraction over subprocesses. Returned by :meth:`loop."
@@ -602,7 +606,7 @@ msgid "Subprocess Transports"
 msgstr ""
 
 msgid ":meth:`transport.get_pid() <SubprocessTransport.get_pid>`"
-msgstr ""
+msgstr ":meth:`transport.get_pid() <SubprocessTransport.get_pid>`"
 
 msgid "Return the subprocess process id."
 msgstr ""
@@ -611,6 +615,8 @@ msgid ""
 ":meth:`transport.get_pipe_transport() <SubprocessTransport."
 "get_pipe_transport>`"
 msgstr ""
+":meth:`transport.get_pipe_transport() <SubprocessTransport."
+"get_pipe_transport>`"
 
 msgid ""
 "Return the transport for the requested communication pipe (*stdin*, "
@@ -619,30 +625,31 @@ msgstr ""
 
 msgid ":meth:`transport.get_returncode() <SubprocessTransport.get_returncode>`"
 msgstr ""
+":meth:`transport.get_returncode() <SubprocessTransport.get_returncode>`"
 
 msgid "Return the subprocess return code."
 msgstr ""
 
 msgid ":meth:`transport.kill() <SubprocessTransport.kill>`"
-msgstr ""
+msgstr ":meth:`transport.kill() <SubprocessTransport.kill>`"
 
 msgid "Kill the subprocess."
 msgstr ""
 
 msgid ":meth:`transport.send_signal() <SubprocessTransport.send_signal>`"
-msgstr ""
+msgstr ":meth:`transport.send_signal() <SubprocessTransport.send_signal>`"
 
 msgid "Send a signal to the subprocess."
 msgstr ""
 
 msgid ":meth:`transport.terminate() <SubprocessTransport.terminate>`"
-msgstr ""
+msgstr ":meth:`transport.terminate() <SubprocessTransport.terminate>`"
 
 msgid "Stop the subprocess."
 msgstr ""
 
 msgid ":meth:`transport.close() <SubprocessTransport.close>`"
-msgstr ""
+msgstr ":meth:`transport.close() <SubprocessTransport.close>`"
 
 msgid "Kill the subprocess and close all pipes."
 msgstr ""

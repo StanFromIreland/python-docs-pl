@@ -810,7 +810,7 @@ msgid "Meaning"
 msgstr "Znaczenie"
 
 msgid ":const:`ASCII`, :const:`A`"
-msgstr ""
+msgstr ":const:`ASCII`, :const:`A`"
 
 msgid ""
 "Makes several escapes like ``\\w``, ``\\b``, ``\\s`` and ``\\d`` match only "
@@ -818,25 +818,25 @@ msgid ""
 msgstr ""
 
 msgid ":const:`DOTALL`, :const:`S`"
-msgstr ""
+msgstr ":const:`DOTALL`, :const:`S`"
 
 msgid "Make ``.`` match any character, including newlines."
 msgstr ""
 
 msgid ":const:`IGNORECASE`, :const:`I`"
-msgstr ""
+msgstr ":const:`IGNORECASE`, :const:`I`"
 
 msgid "Do case-insensitive matches."
 msgstr ""
 
 msgid ":const:`LOCALE`, :const:`L`"
-msgstr ""
+msgstr ":const:`LOCALE`, :const:`L`"
 
 msgid "Do a locale-aware match."
 msgstr ""
 
 msgid ":const:`MULTILINE`, :const:`M`"
-msgstr ""
+msgstr ":const:`MULTILINE`, :const:`M`"
 
 msgid "Multi-line matching, affecting ``^`` and ``$``."
 msgstr ""

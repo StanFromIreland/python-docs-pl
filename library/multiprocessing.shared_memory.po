@@ -328,7 +328,7 @@ msgid ":class:`float`"
 msgstr ":class:`float`"
 
 msgid ":class:`bool`"
-msgstr ""
+msgstr ":class:`bool`"
 
 msgid ":class:`str` (less than 10M bytes each when encoded as UTF-8)"
 msgstr ""

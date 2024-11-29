@@ -65,7 +65,7 @@ msgid ":class:`BoundedSemaphore`"
 msgstr ":class:`BoundedSemaphore`"
 
 msgid ":class:`Barrier`"
-msgstr ""
+msgstr ":class:`Barrier`"
 
 msgid "Lock"
 msgstr ""

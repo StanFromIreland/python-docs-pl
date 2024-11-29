@@ -2294,7 +2294,7 @@ msgid ":func:`!wrap_socket` is replaced by :meth:`ssl.SSLContext.wrap_socket`"
 msgstr ""
 
 msgid ":func:`!match_hostname`"
-msgstr ""
+msgstr ":func:`!match_hostname`"
 
 msgid ":func:`!RAND_pseudo_bytes`, :func:`!RAND_egd`"
 msgstr ""
@@ -2520,7 +2520,7 @@ msgid ""
 msgstr ""
 
 msgid "Specifically:"
-msgstr ""
+msgstr "W szczególności:"
 
 msgid ""
 "A call to ``PyParser_SimpleParseStringFlags`` followed by ``PyNode_Compile`` "

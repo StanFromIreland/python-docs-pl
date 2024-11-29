@@ -98,10 +98,10 @@ msgid "`Wing IDE <https://wingware.com/>`_"
 msgstr ""
 
 msgid "`Komodo IDE <https://www.activestate.com/products/komodo-ide/>`_"
-msgstr ""
+msgstr "`Komodo IDE <https://www.activestate.com/products/komodo-ide/>`_"
 
 msgid "`PyCharm <https://www.jetbrains.com/pycharm/>`_"
-msgstr ""
+msgstr "`PyCharm <https://www.jetbrains.com/pycharm/>`_"
 
 msgid "Are there tools to help find bugs or perform static analysis?"
 msgstr ""

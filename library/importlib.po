@@ -76,7 +76,7 @@ msgstr ""
 
 msgid ""
 "`Packages specification <https://www.python.org/doc/essays/packages/>`__"
-msgstr ""
+msgstr "Specyfikacja pakietów <https://www.python.org/doc/essays/packages/>`__"
 
 msgid ""
 "Original specification of packages. Some semantics have changed since the "
@@ -91,7 +91,7 @@ msgid "The :keyword:`import` statement is syntactic sugar for this function."
 msgstr ""
 
 msgid ":ref:`sys-path-init`"
-msgstr ""
+msgstr ":ref:`sys-path-init`"
 
 msgid "The initialization of :data:`sys.path`."
 msgstr ""

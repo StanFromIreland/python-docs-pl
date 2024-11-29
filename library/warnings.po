@@ -338,7 +338,7 @@ msgid ""
 msgstr ""
 
 msgid "action:message:category:module:line"
-msgstr ""
+msgstr "action:message:category:module:line"
 
 msgid ""
 "The meaning of each of these fields is as described in :ref:`warning-"
@@ -762,7 +762,7 @@ msgid ""
 msgstr ""
 
 msgid "See :pep:`702`."
-msgstr ""
+msgstr "Zob. :pep:`702`."
 
 msgid "Available Context Managers"
 msgstr ""

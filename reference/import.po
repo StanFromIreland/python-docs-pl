@@ -78,7 +78,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`importlib`"
-msgstr ""
+msgstr ":mod:`importlib`"
 
 msgid ""
 "The :mod:`importlib` module provides a rich API for interacting with the "

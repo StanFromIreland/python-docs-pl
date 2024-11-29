@@ -154,7 +154,7 @@ msgid ""
 msgstr ""
 
 msgid "https://curl.se/rfc/cookie_spec.html"
-msgstr ""
+msgstr "https://curl.se/rfc/cookie_spec.html"
 
 msgid ""
 "The specification of the original Netscape cookie protocol.  Though this is "
@@ -178,7 +178,7 @@ msgid ""
 msgstr ""
 
 msgid "https://kristol.org/cookie/errata.html"
-msgstr ""
+msgstr "https://kristol.org/cookie/errata.html"
 
 msgid "Unfinished errata to :rfc:`2965`."
 msgstr ""

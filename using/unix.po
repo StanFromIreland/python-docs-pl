@@ -53,7 +53,7 @@ msgid "for Debian users"
 msgstr ""
 
 msgid "https://en.opensuse.org/Portal:Packaging"
-msgstr ""
+msgstr "https://en.opensuse.org/Portal:Packaging"
 
 msgid "for OpenSuse users"
 msgstr ""
@@ -62,12 +62,14 @@ msgid ""
 "https://docs.fedoraproject.org/en-US/package-maintainers/"
 "Packaging_Tutorial_GNU_Hello/"
 msgstr ""
+"https://docs.fedoraproject.org/en-US/package-maintainers/"
+"Packaging_Tutorial_GNU_Hello/"
 
 msgid "for Fedora users"
 msgstr ""
 
 msgid "https://slackbook.org/html/package-management-making-packages.html"
-msgstr ""
+msgstr "https://slackbook.org/html/package-management-making-packages.html"
 
 msgid "for Slackware users"
 msgstr ""
@@ -152,7 +154,7 @@ msgid "Meaning"
 msgstr "Znaczenie"
 
 msgid ":file:`{exec_prefix}/bin/python3`"
-msgstr ""
+msgstr ":file:`{exec_prefix}/bin/python3`"
 
 msgid "Recommended location of the interpreter."
 msgstr ""

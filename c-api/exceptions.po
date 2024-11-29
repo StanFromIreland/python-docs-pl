@@ -1127,10 +1127,10 @@ msgid ":exc:`ProcessLookupError`"
 msgstr ":exc:`ProcessLookupError`"
 
 msgid ":c:data:`PyExc_PythonFinalizationError`"
-msgstr ""
+msgstr ":c:data:`PyExc_PythonFinalizationError`"
 
 msgid ":exc:`PythonFinalizationError`"
-msgstr ""
+msgstr ":exc:`PythonFinalizationError`"
 
 msgid ":c:data:`PyExc_RecursionError`"
 msgstr ":c:data:`PyExc_RecursionError`"
@@ -1261,13 +1261,13 @@ msgid "These are compatibility aliases to :c:data:`PyExc_OSError`:"
 msgstr ""
 
 msgid ":c:data:`!PyExc_EnvironmentError`"
-msgstr ""
+msgstr ":c:data:`!PyExc_EnvironmentError`"
 
 msgid ":c:data:`!PyExc_IOError`"
-msgstr ""
+msgstr ":c:data:`!PyExc_IOError`"
 
 msgid ":c:data:`!PyExc_WindowsError`"
-msgstr ""
+msgstr ":c:data:`!PyExc_WindowsError`"
 
 msgid "[2]_"
 msgstr ""

@@ -46,7 +46,7 @@ msgid "Create event loop, run a coroutine, close the loop."
 msgstr ""
 
 msgid ":class:`Runner`"
-msgstr ""
+msgstr ":class:`Runner`"
 
 msgid "A context manager that simplifies multiple async function calls."
 msgstr ""
@@ -58,7 +58,7 @@ msgid "Task object."
 msgstr ""
 
 msgid ":class:`TaskGroup`"
-msgstr ""
+msgstr ":class:`TaskGroup`"
 
 msgid ""
 "A context manager that holds a group of tasks. Provides a convenient and "
@@ -84,37 +84,37 @@ msgid "Return all tasks that are not yet finished for an event loop."
 msgstr ""
 
 msgid "``await`` :func:`sleep`"
-msgstr ""
+msgstr "``await`` :func:`sleep`"
 
 msgid "Sleep for a number of seconds."
 msgstr ""
 
 msgid "``await`` :func:`gather`"
-msgstr ""
+msgstr "``await`` :func:`gather`"
 
 msgid "Schedule and wait for things concurrently."
 msgstr ""
 
 msgid "``await`` :func:`wait_for`"
-msgstr ""
+msgstr "``await`` :func:`wait_for`"
 
 msgid "Run with a timeout."
 msgstr ""
 
 msgid "``await`` :func:`shield`"
-msgstr ""
+msgstr "``await`` :func:`shield`"
 
 msgid "Shield from cancellation."
 msgstr ""
 
 msgid "``await`` :func:`wait`"
-msgstr ""
+msgstr "``await`` :func:`wait`"
 
 msgid "Monitor for completion."
 msgstr ""
 
 msgid ":func:`timeout`"
-msgstr ""
+msgstr ":func:`timeout`"
 
 msgid "Run with a timeout. Useful in cases when ``wait_for`` is not suitable."
 msgstr ""
@@ -200,13 +200,13 @@ msgid "Utilities to spawn subprocesses and run shell commands."
 msgstr ""
 
 msgid "``await`` :func:`create_subprocess_exec`"
-msgstr ""
+msgstr "``await`` :func:`create_subprocess_exec`"
 
 msgid "Create a subprocess."
 msgstr ""
 
 msgid "``await`` :func:`create_subprocess_shell`"
-msgstr ""
+msgstr "``await`` :func:`create_subprocess_shell`"
 
 msgid "Run a shell command."
 msgstr ""
@@ -224,25 +224,25 @@ msgid "High-level APIs to work with network IO."
 msgstr ""
 
 msgid "``await`` :func:`open_connection`"
-msgstr ""
+msgstr "``await`` :func:`open_connection`"
 
 msgid "Establish a TCP connection."
 msgstr ""
 
 msgid "``await`` :func:`open_unix_connection`"
-msgstr ""
+msgstr "``await`` :func:`open_unix_connection`"
 
 msgid "Establish a Unix socket connection."
 msgstr ""
 
 msgid "``await`` :func:`start_server`"
-msgstr ""
+msgstr "``await`` :func:`start_server`"
 
 msgid "Start a TCP server."
 msgstr ""
 
 msgid "``await`` :func:`start_unix_server`"
-msgstr ""
+msgstr "``await`` :func:`start_unix_server`"
 
 msgid "Start a Unix socket server."
 msgstr ""
@@ -302,7 +302,7 @@ msgid "A bounded semaphore."
 msgstr ""
 
 msgid ":class:`Barrier`"
-msgstr ""
+msgstr ":class:`Barrier`"
 
 msgid "A barrier object."
 msgstr ""
@@ -328,7 +328,7 @@ msgid "Raised when a Task is cancelled. See also :meth:`Task.cancel`."
 msgstr ""
 
 msgid ":exc:`asyncio.BrokenBarrierError`"
-msgstr ""
+msgstr ":exc:`asyncio.BrokenBarrierError`"
 
 msgid "Raised when a Barrier is broken. See also :meth:`Barrier.wait`."
 msgstr ""

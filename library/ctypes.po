@@ -298,7 +298,7 @@ msgid ":class:`c_bool`"
 msgstr ":class:`c_bool`"
 
 msgid ":c:expr:`_Bool`"
-msgstr ""
+msgstr ":c:expr:`_Bool`"
 
 msgid "bool (1)"
 msgstr ""
@@ -307,7 +307,7 @@ msgid ":class:`c_char`"
 msgstr ":class:`c_char`"
 
 msgid ":c:expr:`char`"
-msgstr ""
+msgstr ":c:expr:`char`"
 
 msgid "1-character bytes object"
 msgstr ""
@@ -316,7 +316,7 @@ msgid ":class:`c_wchar`"
 msgstr ":class:`c_wchar`"
 
 msgid ":c:type:`wchar_t`"
-msgstr ""
+msgstr ":c:type:`wchar_t`"
 
 msgid "1-character string"
 msgstr ""
@@ -337,7 +337,7 @@ msgid ":class:`c_short`"
 msgstr ":class:`c_short`"
 
 msgid ":c:expr:`short`"
-msgstr ""
+msgstr ":c:expr:`short`"
 
 msgid ":class:`c_ushort`"
 msgstr ":class:`c_ushort`"
@@ -349,7 +349,7 @@ msgid ":class:`c_int`"
 msgstr ":class:`c_int`"
 
 msgid ":c:expr:`int`"
-msgstr ""
+msgstr ":c:expr:`int`"
 
 msgid ":class:`c_uint`"
 msgstr ":class:`c_uint`"
@@ -361,7 +361,7 @@ msgid ":class:`c_long`"
 msgstr ":class:`c_long`"
 
 msgid ":c:expr:`long`"
-msgstr ""
+msgstr ":c:expr:`long`"
 
 msgid ":class:`c_ulong`"
 msgstr ":class:`c_ulong`"
@@ -385,7 +385,7 @@ msgid ":class:`c_size_t`"
 msgstr ":class:`c_size_t`"
 
 msgid ":c:type:`size_t`"
-msgstr ""
+msgstr ":c:type:`size_t`"
 
 msgid ":class:`c_ssize_t`"
 msgstr ":class:`c_ssize_t`"
@@ -394,16 +394,16 @@ msgid ":c:type:`ssize_t` or :c:expr:`Py_ssize_t`"
 msgstr ""
 
 msgid ":class:`c_time_t`"
-msgstr ""
+msgstr ":class:`c_time_t`"
 
 msgid ":c:type:`time_t`"
-msgstr ""
+msgstr ":c:type:`time_t`"
 
 msgid ":class:`c_float`"
 msgstr ":class:`c_float`"
 
 msgid ":c:expr:`float`"
-msgstr ""
+msgstr ":c:expr:`float`"
 
 msgid "float"
 msgstr "typ (float) zmiennoprzecinkowy pojedynczej precyzji"
@@ -412,7 +412,7 @@ msgid ":class:`c_double`"
 msgstr ":class:`c_double`"
 
 msgid ":c:expr:`double`"
-msgstr ""
+msgstr ":c:expr:`double`"
 
 msgid ":class:`c_longdouble`"
 msgstr ":class:`c_longdouble`"
@@ -1413,7 +1413,7 @@ msgid ""
 msgstr ""
 
 msgid "The result::"
-msgstr ""
+msgstr "Wynik::"
 
 msgid ""
 ">>> qsort(ia, len(ia), sizeof(c_int), cmp_func)  \n"

@@ -1979,13 +1979,13 @@ msgid "Boolean NOT"
 msgstr ""
 
 msgid ":keyword:`and`"
-msgstr ""
+msgstr ":keyword:`and`"
 
 msgid "Boolean AND"
 msgstr ""
 
 msgid ":keyword:`or`"
-msgstr ""
+msgstr ":keyword:`or`"
 
 msgid "Boolean OR"
 msgstr ""
@@ -1997,13 +1997,13 @@ msgid "Conditional expression"
 msgstr ""
 
 msgid ":keyword:`lambda`"
-msgstr ""
+msgstr ":keyword:`lambda`"
 
 msgid "Lambda expression"
 msgstr ""
 
 msgid "``:=``"
-msgstr ""
+msgstr "``:=``"
 
 msgid "Assignment expression"
 msgstr ""

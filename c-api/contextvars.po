@@ -68,7 +68,7 @@ msgid "The type object representing the *context variable token* type."
 msgstr ""
 
 msgid "Type-check macros:"
-msgstr ""
+msgstr "Sprawdzanie typu makr:"
 
 msgid ""
 "Return true if *o* is of type :c:data:`PyContext_Type`. *o* must not be "

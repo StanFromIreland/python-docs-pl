@@ -50,25 +50,25 @@ msgid "Functions that initialize the interpreter:"
 msgstr ""
 
 msgid ":c:func:`Py_Initialize`"
-msgstr ""
+msgstr ":c:func:`Py_Initialize`"
 
 msgid ":c:func:`Py_InitializeEx`"
-msgstr ""
+msgstr ":c:func:`Py_InitializeEx`"
 
 msgid ":c:func:`Py_InitializeFromConfig`"
-msgstr ""
+msgstr ":c:func:`Py_InitializeFromConfig`"
 
 msgid ":c:func:`Py_BytesMain`"
-msgstr ""
+msgstr ":c:func:`Py_BytesMain`"
 
 msgid ":c:func:`Py_Main`"
-msgstr ""
+msgstr ":c:func:`Py_Main`"
 
 msgid "the runtime pre-initialization functions covered in :ref:`init-config`"
 msgstr ""
 
 msgid "Configuration functions:"
-msgstr ""
+msgstr "Konfiguracja funkcja:"
 
 msgid ":c:func:`PyImport_AppendInittab`"
 msgstr ":c:func:`PyImport_AppendInittab`"
@@ -77,7 +77,7 @@ msgid ":c:func:`PyImport_ExtendInittab`"
 msgstr ":c:func:`PyImport_ExtendInittab`"
 
 msgid ":c:func:`!PyInitFrozenExtensions`"
-msgstr ""
+msgstr ":c:func:`!PyInitFrozenExtensions`"
 
 msgid ":c:func:`PyMem_SetAllocator`"
 msgstr ":c:func:`PyMem_SetAllocator`"
@@ -101,7 +101,7 @@ msgid "the configuration functions covered in :ref:`init-config`"
 msgstr ""
 
 msgid "Informative functions:"
-msgstr ""
+msgstr "Informatiwne funkcje:"
 
 msgid ":c:func:`Py_IsInitialized`"
 msgstr ":c:func:`Py_IsInitialized`"
@@ -138,7 +138,7 @@ msgid ""
 msgstr ""
 
 msgid "Memory allocators:"
-msgstr ""
+msgstr "Alokatory pamięci:"
 
 msgid ":c:func:`PyMem_RawMalloc`"
 msgstr ":c:func:`PyMem_RawMalloc`"
@@ -156,10 +156,10 @@ msgid "Synchronization:"
 msgstr ""
 
 msgid ":c:func:`PyMutex_Lock`"
-msgstr ""
+msgstr ":c:func:`PyMutex_Lock`"
 
 msgid ":c:func:`PyMutex_Unlock`"
-msgstr ""
+msgstr ":c:func:`PyMutex_Unlock`"
 
 msgid ""
 "Despite their apparent similarity to some of the functions listed above, the "
@@ -1952,41 +1952,41 @@ msgid "Meaning of *arg*"
 msgstr ""
 
 msgid ":c:data:`PyTrace_CALL`"
-msgstr ""
+msgstr ":c:data:`PyTrace_CALL`"
 
 msgid "Always :c:data:`Py_None`."
-msgstr ""
+msgstr "Zawsze :c:data:`Py_None`."
 
 msgid ":c:data:`PyTrace_EXCEPTION`"
-msgstr ""
+msgstr ":c:data:`PyTrace_EXCEPTION`"
 
 msgid "Exception information as returned by :func:`sys.exc_info`."
 msgstr ""
 
 msgid ":c:data:`PyTrace_LINE`"
-msgstr ""
+msgstr ":c:data:`PyTrace_LINE`"
 
 msgid ":c:data:`PyTrace_RETURN`"
-msgstr ""
+msgstr ":c:data:`PyTrace_RETURN`"
 
 msgid ""
 "Value being returned to the caller, or ``NULL`` if caused by an exception."
 msgstr ""
 
 msgid ":c:data:`PyTrace_C_CALL`"
-msgstr ""
+msgstr ":c:data:`PyTrace_C_CALL`"
 
 msgid "Function object being called."
 msgstr ""
 
 msgid ":c:data:`PyTrace_C_EXCEPTION`"
-msgstr ""
+msgstr ":c:data:`PyTrace_C_EXCEPTION`"
 
 msgid ":c:data:`PyTrace_C_RETURN`"
-msgstr ""
+msgstr ":c:data:`PyTrace_C_RETURN`"
 
 msgid ":c:data:`PyTrace_OPCODE`"
-msgstr ""
+msgstr ":c:data:`PyTrace_OPCODE`"
 
 msgid ""
 "The value of the *what* parameter to a :c:type:`Py_tracefunc` function when "

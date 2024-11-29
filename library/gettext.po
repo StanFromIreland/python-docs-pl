@@ -166,7 +166,7 @@ msgid ""
 msgstr ""
 
 msgid ":file:`{localedir}/{language}/LC_MESSAGES/{domain}.mo`"
-msgstr ""
+msgstr ":file:`{localedir}/{language}/LC_MESSAGES/{domain}.mo`"
 
 msgid ""
 "The first such file name that exists is returned by :func:`find`. If no such "

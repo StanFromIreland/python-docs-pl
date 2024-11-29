@@ -746,10 +746,10 @@ msgid ":ref:`or-patterns` containing at least one irrefutable pattern"
 msgstr ""
 
 msgid ":ref:`capture-patterns`"
-msgstr ""
+msgstr ":ref:`capture-patterns`"
 
 msgid ":ref:`wildcard-patterns`"
-msgstr ""
+msgstr ":ref:`wildcard-patterns`"
 
 msgid "parenthesized irrefutable patterns"
 msgstr ""
@@ -1201,7 +1201,7 @@ msgid "If there are duplicate keywords, :exc:`TypeError` is raised."
 msgstr ""
 
 msgid ":ref:`class-pattern-matching`"
-msgstr ""
+msgstr ":ref:`class-pattern-matching`"
 
 msgid ""
 "II. Once all positional patterns have been converted to keyword patterns,"
@@ -1216,10 +1216,10 @@ msgid ""
 msgstr ""
 
 msgid ":class:`bool`"
-msgstr ""
+msgstr ":class:`bool`"
 
 msgid ":class:`bytearray`"
-msgstr ""
+msgstr ":class:`bytearray`"
 
 msgid ":class:`bytes`"
 msgstr ":class:`bytes`"
@@ -2040,16 +2040,16 @@ msgid "The following standard library classes are sequences:"
 msgstr ""
 
 msgid ":class:`array.array`"
-msgstr ""
+msgstr ":class:`array.array`"
 
 msgid ":class:`collections.deque`"
 msgstr ":class:`collections.deque`"
 
 msgid ":class:`memoryview`"
-msgstr ""
+msgstr ":class:`memoryview`"
 
 msgid ":class:`range`"
-msgstr ""
+msgstr ":class:`range`"
 
 msgid ""
 "Subject values of type ``str``, ``bytes``, and ``bytearray`` do not match "

@@ -275,19 +275,19 @@ msgid ":ref:`sqlite3-howtos` for further reading:"
 msgstr ""
 
 msgid ":ref:`sqlite3-placeholders`"
-msgstr ""
+msgstr ":ref:`sqlite3-placeholders`"
 
 msgid ":ref:`sqlite3-adapters`"
-msgstr ""
+msgstr ":ref:`sqlite3-adapters`"
 
 msgid ":ref:`sqlite3-converters`"
-msgstr ""
+msgstr ":ref:`sqlite3-converters`"
 
 msgid ":ref:`sqlite3-connection-context-manager`"
-msgstr ""
+msgstr ":ref:`sqlite3-connection-context-manager`"
 
 msgid ":ref:`sqlite3-howto-row-factory`"
-msgstr ""
+msgstr ":ref:`sqlite3-howto-row-factory`"
 
 msgid ""
 ":ref:`sqlite3-explanation` for in-depth background on transaction control."
@@ -653,7 +653,7 @@ msgid ""
 msgstr ""
 
 msgid "https://www.sqlite.org/c3ref/c_dbconfig_defensive.html"
-msgstr ""
+msgstr "https://www.sqlite.org/c3ref/c_dbconfig_defensive.html"
 
 msgid "SQLite docs: Database Connection Configuration Options"
 msgstr ""
@@ -668,7 +668,7 @@ msgid ""
 msgstr ""
 
 msgid ":ref:`sqlite3-connection-shortcuts`"
-msgstr ""
+msgstr ":ref:`sqlite3-connection-shortcuts`"
 
 msgid ""
 "A :exc:`ResourceWarning` is emitted if :meth:`close` is not called before a :"
@@ -1198,7 +1198,7 @@ msgid ""
 msgstr ""
 
 msgid ":ref:`sqlite3-howto-encoding`"
-msgstr ""
+msgstr ":ref:`sqlite3-howto-encoding`"
 
 msgid "Added the *filter* parameter."
 msgstr ""
@@ -2563,7 +2563,7 @@ msgid ""
 msgstr ""
 
 msgid ":ref:`unicode-howto`"
-msgstr ""
+msgstr ":ref:`unicode-howto`"
 
 msgid "Explanation"
 msgstr "Wytłumaczenie"

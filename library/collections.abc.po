@@ -226,7 +226,7 @@ msgid ":class:`Sequence`"
 msgstr ":class:`Sequence`"
 
 msgid ":class:`Reversible`, :class:`Collection`"
-msgstr ""
+msgstr ":class:`Reversible`, :class:`Collection`"
 
 msgid "``__getitem__``, ``__len__``"
 msgstr "``__getitem__``, ``__len__``"
@@ -308,7 +308,7 @@ msgid ":class:`ItemsView`"
 msgstr ":class:`ItemsView`"
 
 msgid ":class:`MappingView`, :class:`Set`"
-msgstr ""
+msgstr ":class:`MappingView`, :class:`Set`"
 
 msgid "``__contains__``, ``__iter__``"
 msgstr "``__contains__``, ``__iter__``"
@@ -320,7 +320,7 @@ msgid ":class:`ValuesView`"
 msgstr ":class:`ValuesView`"
 
 msgid ":class:`MappingView`, :class:`Collection`"
-msgstr ""
+msgstr ":class:`MappingView`, :class:`Collection`"
 
 msgid ":class:`Awaitable` [1]_"
 msgstr ""

@@ -652,7 +652,7 @@ msgid "ASCII Vertical Tab (VT)"
 msgstr ""
 
 msgid ":samp:`\\\\\\\\{ooo}`"
-msgstr ""
+msgstr ":samp:`\\\\\\\\{ooo}`"
 
 msgid "Character with octal value *ooo*"
 msgstr ""
@@ -661,7 +661,7 @@ msgid "(2,4)"
 msgstr ""
 
 msgid ":samp:`\\\\x{hh}`"
-msgstr ""
+msgstr ":samp:`\\\\x{hh}`"
 
 msgid "Character with hex value *hh*"
 msgstr ""
@@ -673,7 +673,7 @@ msgid "Escape sequences only recognized in string literals are:"
 msgstr ""
 
 msgid ":samp:`\\\\N\\\\{{name}\\\\}`"
-msgstr ""
+msgstr ":samp:`\\\\N\\\\{{name}\\\\}`"
 
 msgid "Character named *name* in the Unicode database"
 msgstr ""
@@ -682,7 +682,7 @@ msgid "\\(5)"
 msgstr "\\(5)"
 
 msgid ":samp:`\\\\u{xxxx}`"
-msgstr ""
+msgstr ":samp:`\\\\u{xxxx}`"
 
 msgid "Character with 16-bit hex value *xxxx*"
 msgstr ""
@@ -691,7 +691,7 @@ msgid "\\(6)"
 msgstr ""
 
 msgid ":samp:`\\\\U{xxxxxxxx}`"
-msgstr ""
+msgstr ":samp:`\\\\U{xxxxxxxx}`"
 
 msgid "Character with 32-bit hex value *xxxxxxxx*"
 msgstr ""

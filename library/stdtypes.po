@@ -2900,7 +2900,7 @@ msgid "If precision is ``N``, the output is truncated to ``N`` characters."
 msgstr ""
 
 msgid "See :pep:`237`."
-msgstr ""
+msgstr "Zob. :pep:`237`."
 
 msgid ""
 "Since Python strings have an explicit length, ``%s`` conversions do not "
@@ -5394,28 +5394,28 @@ msgid ":class:`contextlib.AbstractAsyncContextManager`"
 msgstr ":class:`contextlib.AbstractAsyncContextManager`"
 
 msgid ":class:`dataclasses.Field`"
-msgstr ""
+msgstr ":class:`dataclasses.Field`"
 
 msgid ":class:`functools.cached_property`"
-msgstr ""
+msgstr ":class:`functools.cached_property`"
 
 msgid ":class:`functools.partialmethod`"
-msgstr ""
+msgstr ":class:`functools.partialmethod`"
 
 msgid ":class:`os.PathLike`"
-msgstr ""
+msgstr ":class:`os.PathLike`"
 
 msgid ":class:`queue.LifoQueue`"
-msgstr ""
+msgstr ":class:`queue.LifoQueue`"
 
 msgid ":class:`queue.Queue`"
-msgstr ""
+msgstr ":class:`queue.Queue`"
 
 msgid ":class:`queue.PriorityQueue`"
-msgstr ""
+msgstr ":class:`queue.PriorityQueue`"
 
 msgid ":class:`queue.SimpleQueue`"
-msgstr ""
+msgstr ":class:`queue.SimpleQueue`"
 
 msgid ":ref:`re.Pattern <re-objects>`"
 msgstr ""
@@ -5424,28 +5424,28 @@ msgid ":ref:`re.Match <match-objects>`"
 msgstr ""
 
 msgid ":class:`shelve.BsdDbShelf`"
-msgstr ""
+msgstr ":class:`shelve.BsdDbShelf`"
 
 msgid ":class:`shelve.DbfilenameShelf`"
-msgstr ""
+msgstr ":class:`shelve.DbfilenameShelf`"
 
 msgid ":class:`shelve.Shelf`"
-msgstr ""
+msgstr ":class:`shelve.Shelf`"
 
 msgid ":class:`types.MappingProxyType`"
-msgstr ""
+msgstr ":class:`types.MappingProxyType`"
 
 msgid ":class:`weakref.WeakKeyDictionary`"
-msgstr ""
+msgstr ":class:`weakref.WeakKeyDictionary`"
 
 msgid ":class:`weakref.WeakMethod`"
-msgstr ""
+msgstr ":class:`weakref.WeakMethod`"
 
 msgid ":class:`weakref.WeakSet`"
-msgstr ""
+msgstr ":class:`weakref.WeakSet`"
 
 msgid ":class:`weakref.WeakValueDictionary`"
-msgstr ""
+msgstr ":class:`weakref.WeakValueDictionary`"
 
 msgid "Special Attributes of ``GenericAlias`` objects"
 msgstr ""

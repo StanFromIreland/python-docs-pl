@@ -90,7 +90,7 @@ msgid "wrapper around string objects for easier string subclassing"
 msgstr ""
 
 msgid ":class:`ChainMap` objects"
-msgstr ""
+msgstr ":class:`ChainMap` przedmioty"
 
 msgid ""
 "A :class:`ChainMap` class is provided for quickly linking a number of "
@@ -315,7 +315,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`Counter` objects"
-msgstr ""
+msgstr ":class:`Counter` przedmioty"
 
 msgid ""
 "A counter tool is provided to support convenient and rapid tallies. For "
@@ -547,7 +547,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`deque` objects"
-msgstr ""
+msgstr ":class:`deque` przedmioty"
 
 msgid ""
 "Returns a new deque object initialized left-to-right (using :meth:`append`) "
@@ -730,7 +730,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`deque` Recipes"
-msgstr ""
+msgstr ":class:`deque` Przepisy"
 
 msgid "This section shows various approaches to working with deques."
 msgstr ""
@@ -812,7 +812,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`defaultdict` objects"
-msgstr ""
+msgstr ":class:`defaultdict` przedmioty"
 
 msgid ""
 "Return a new dictionary-like object.  :class:`defaultdict` is a subclass of "
@@ -876,7 +876,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`defaultdict` Examples"
-msgstr ""
+msgstr ":class:`defaultdict` Przykłady"
 
 msgid ""
 "Using :class:`list` as the :attr:`~defaultdict.default_factory`, it is easy "
@@ -1201,7 +1201,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`OrderedDict` objects"
-msgstr ""
+msgstr ":class:`OrderedDict` przedmioty"
 
 msgid ""
 "Ordered dictionaries are just like regular dictionaries but have some extra "
@@ -1418,7 +1418,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`UserDict` objects"
-msgstr ""
+msgstr ":class:`UserDict` przedmioty"
 
 msgid ""
 "The class, :class:`UserDict` acts as a wrapper around dictionary objects. "
@@ -1445,7 +1445,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`UserList` objects"
-msgstr ""
+msgstr ":class:`UserList` przedmioty"
 
 msgid ""
 "This class acts as a wrapper around list objects.  It is a useful base class "
@@ -1495,7 +1495,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`UserString` objects"
-msgstr ""
+msgstr ":class:`UserString` przedmioty"
 
 msgid ""
 "The class, :class:`UserString` acts as a wrapper around string objects. The "

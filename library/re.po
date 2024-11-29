@@ -1649,7 +1649,7 @@ msgid ""
 msgstr ""
 
 msgid "m.string[m.start(g):m.end(g)]"
-msgstr ""
+msgstr "m.string[m.start(g):m.end(g)]"
 
 msgid ""
 "Note that ``m.start(group)`` will equal ``m.end(group)`` if *group* matched "
@@ -2244,7 +2244,7 @@ msgid "(?"
 msgstr ""
 
 msgid "(?:"
-msgstr ""
+msgstr "(?:"
 
 msgid "(?P<"
 msgstr ""

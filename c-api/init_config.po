@@ -710,7 +710,7 @@ msgid "stdin is always opened in buffered mode."
 msgstr ""
 
 msgid "Default: ``1``."
-msgstr ""
+msgstr "Domyślny: ``1``."
 
 msgid ""
 "If equals to ``1``, issue a warning when comparing :class:`bytes` or :class:"
@@ -748,7 +748,7 @@ msgid ""
 msgstr ""
 
 msgid "Valid values:"
-msgstr ""
+msgstr "Prawidłowe wartości:"
 
 msgid ""
 "``L\"always\"``: Hash the source file for invalidation regardless of value "
@@ -764,7 +764,7 @@ msgid ""
 msgstr ""
 
 msgid "Default: ``L\"default\"``."
-msgstr ""
+msgstr "Domyślny: ``L\"default\"``."
 
 msgid "See also :pep:`552` \"Deterministic pycs\"."
 msgstr ""
@@ -1681,6 +1681,8 @@ msgid ""
 ":c:member:`PyConfig.module_search_paths_set`, :c:member:`PyConfig."
 "module_search_paths`"
 msgstr ""
+":c:member:`PyConfig.module_search_paths_set`, :c:member:`PyConfig."
+"module_search_paths`"
 
 msgid ":c:member:`PyConfig.prefix`"
 msgstr ":c:member:`PyConfig.prefix`"

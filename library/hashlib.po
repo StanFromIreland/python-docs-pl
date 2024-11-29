@@ -825,25 +825,25 @@ msgid "Another way to encode binary hashes for non-binary environments."
 msgstr ""
 
 msgid "https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.180-4.pdf"
-msgstr ""
+msgstr "https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.180-4.pdf"
 
 msgid "The FIPS 180-4 publication on Secure Hash Algorithms."
 msgstr ""
 
 msgid "https://csrc.nist.gov/pubs/fips/202/final"
-msgstr ""
+msgstr "https://csrc.nist.gov/pubs/fips/202/final"
 
 msgid "The FIPS 202 publication on the SHA-3 Standard."
 msgstr ""
 
 msgid "https://www.blake2.net/"
-msgstr ""
+msgstr "https://www.blake2.net/"
 
 msgid "Official BLAKE2 website."
 msgstr ""
 
 msgid "https://en.wikipedia.org/wiki/Cryptographic_hash_function"
-msgstr ""
+msgstr "https://en.wikipedia.org/wiki/Cryptographic_hash_function"
 
 msgid ""
 "Wikipedia article with information on which algorithms have known issues and "
@@ -851,7 +851,7 @@ msgid ""
 msgstr ""
 
 msgid "https://www.ietf.org/rfc/rfc8018.txt"
-msgstr ""
+msgstr "https://www.ietf.org/rfc/rfc8018.txt"
 
 msgid "PKCS #5: Password-Based Cryptography Specification Version 2.1"
 msgstr ""
@@ -859,6 +859,7 @@ msgstr ""
 msgid ""
 "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf"
 msgstr ""
+"https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf"
 
 msgid "NIST Recommendation for Password-Based Key Derivation."
 msgstr ""

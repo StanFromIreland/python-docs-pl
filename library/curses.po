@@ -62,7 +62,7 @@ msgid ""
 msgstr ""
 
 msgid "Module :mod:`curses.ascii`"
-msgstr ""
+msgstr "moduł :mod:`curses.ascii`"
 
 msgid ""
 "Utilities for working with ASCII characters, regardless of your locale "
@@ -70,13 +70,13 @@ msgid ""
 msgstr ""
 
 msgid "Module :mod:`curses.panel`"
-msgstr ""
+msgstr "moduł :mod:`curses.panel`"
 
 msgid "A panel stack extension that adds depth to  curses windows."
 msgstr ""
 
 msgid "Module :mod:`curses.textpad`"
-msgstr ""
+msgstr "moduł :mod:`curses.textpad`"
 
 msgid ""
 "Editable text widget for curses supporting  :program:`Emacs`\\ -like "
@@ -1711,13 +1711,13 @@ msgid "KEY_END"
 msgstr ""
 
 msgid ":kbd:`Page Up`"
-msgstr ""
+msgstr "kbd:`Page Up`"
 
 msgid "KEY_PPAGE"
 msgstr ""
 
 msgid ":kbd:`Page Down`"
-msgstr ""
+msgstr "kbd:`Page Down`"
 
 msgid "KEY_NPAGE"
 msgstr ""
@@ -2070,19 +2070,19 @@ msgid ""
 msgstr ""
 
 msgid ":const:`~curses.KEY_LEFT`"
-msgstr ""
+msgstr ":const:`~curses.KEY_LEFT`"
 
 msgid ":const:`~curses.KEY_RIGHT`"
-msgstr ""
+msgstr ":const:`~curses.KEY_RIGHT`"
 
 msgid ":const:`~curses.KEY_UP`"
-msgstr ""
+msgstr ":const:`~curses.KEY_UP`"
 
 msgid ":const:`~curses.KEY_DOWN`"
-msgstr ""
+msgstr ":const:`~curses.KEY_DOWN`"
 
 msgid ":const:`~curses.KEY_BACKSPACE`"
-msgstr ""
+msgstr ":const:`~curses.KEY_BACKSPACE`"
 
 msgid ":kbd:`Control-h`"
 msgstr ":kbd:`Control-h`"

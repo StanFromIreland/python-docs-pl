@@ -1168,7 +1168,7 @@ msgid "keyword argument"
 msgstr ""
 
 msgid "See :term:`argument`."
-msgstr ""
+msgstr "Zobacz :term:`argument`."
 
 msgid "lambda"
 msgstr "lambda"
@@ -1226,10 +1226,10 @@ msgid ""
 msgstr ""
 
 msgid ":ref:`finders-and-loaders`"
-msgstr ""
+msgstr ":ref:`finders-and-loaders`"
 
 msgid ":class:`importlib.abc.Loader`"
-msgstr ""
+msgstr ":class:`importlib.abc.Loader`"
 
 msgid ":pep:`302`"
 msgstr ":pep:`302`"
@@ -1620,7 +1620,7 @@ msgid ""
 msgstr ""
 
 msgid "See :pep:`1`."
-msgstr ""
+msgstr "Zob. :pep:`1`."
 
 msgid "portion"
 msgstr "część"

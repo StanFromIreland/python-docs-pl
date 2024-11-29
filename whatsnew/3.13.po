@@ -560,7 +560,7 @@ msgid ""
 msgstr ""
 
 msgid ":pep:`744`"
-msgstr ""
+msgstr ":pep:`744`"
 
 msgid ""
 "(JIT by Brandt Bucher, inspired by a paper by Haoran Xu and Fredrik "
@@ -646,7 +646,7 @@ msgid ""
 msgstr ""
 
 msgid ":pep:`730`, :pep:`738`"
-msgstr ""
+msgstr ":pep:`730`, :pep:`738`"
 
 msgid "Other Language Changes"
 msgstr ""
@@ -765,16 +765,16 @@ msgid ""
 msgstr ""
 
 msgid ":func:`_thread.start_new_thread`"
-msgstr ""
+msgstr ":func:`_thread.start_new_thread`"
 
 msgid ":func:`os.fork`"
-msgstr ""
+msgstr ":func:`os.fork`"
 
 msgid ":func:`os.forkpty`"
-msgstr ""
+msgstr ":func:`os.forkpty`"
 
 msgid ":class:`subprocess.Popen`"
-msgstr ""
+msgstr ":class:`subprocess.Popen`"
 
 msgid "(Contributed by Victor Stinner in :gh:`114570`.)"
 msgstr ""
@@ -997,10 +997,10 @@ msgid ""
 msgstr ""
 
 msgid ":func:`collections.namedtuple`"
-msgstr ""
+msgstr ":func:`collections.namedtuple`"
 
 msgid ":class:`dataclasses.dataclass`"
-msgstr ""
+msgstr ":class:`dataclasses.dataclass`"
 
 msgid ""
 ":class:`datetime.datetime`, :class:`datetime.date`, :class:`datetime.time`"
@@ -1010,7 +1010,7 @@ msgid ":class:`inspect.Signature`, :class:`inspect.Parameter`"
 msgstr ""
 
 msgid ":class:`types.SimpleNamespace`"
-msgstr ""
+msgstr ":class:`types.SimpleNamespace`"
 
 msgid ":ref:`code objects <code-objects>`"
 msgstr ""
@@ -1156,22 +1156,22 @@ msgid ""
 msgstr ""
 
 msgid ":func:`~importlib.resources.is_resource`"
-msgstr ""
+msgstr ":func:`~importlib.resources.is_resource`"
 
 msgid ":func:`~importlib.resources.open_binary`"
-msgstr ""
+msgstr ":func:`~importlib.resources.open_binary`"
 
 msgid ":func:`~importlib.resources.open_text`"
-msgstr ""
+msgstr ":func:`~importlib.resources.open_text`"
 
 msgid ":func:`~importlib.resources.path`"
-msgstr ""
+msgstr ":func:`~importlib.resources.path`"
 
 msgid ":func:`~importlib.resources.read_binary`"
-msgstr ""
+msgstr ":func:`~importlib.resources.read_binary`"
 
 msgid ":func:`~importlib.resources.read_text`"
-msgstr ""
+msgstr ":func:`~importlib.resources.read_text`"
 
 msgid ""
 "These functions are no longer deprecated and are not scheduled for removal. "
@@ -1765,19 +1765,19 @@ msgid ""
 msgstr ""
 
 msgid ":meth:`xml.etree.ElementTree.XMLParser.flush`"
-msgstr ""
+msgstr ":meth:`xml.etree.ElementTree.XMLParser.flush`"
 
 msgid ":meth:`xml.etree.ElementTree.XMLPullParser.flush`"
-msgstr ""
+msgstr ":meth:`xml.etree.ElementTree.XMLPullParser.flush`"
 
 msgid ":meth:`xml.parsers.expat.xmlparser.GetReparseDeferralEnabled`"
-msgstr ""
+msgstr ":meth:`xml.parsers.expat.xmlparser.GetReparseDeferralEnabled`"
 
 msgid ":meth:`xml.parsers.expat.xmlparser.SetReparseDeferralEnabled`"
-msgstr ""
+msgstr ":meth:`xml.parsers.expat.xmlparser.SetReparseDeferralEnabled`"
 
 msgid ":meth:`!xml.sax.expatreader.ExpatParser.flush`"
-msgstr ""
+msgstr ":meth:`!xml.sax.expatreader.ExpatParser.flush`"
 
 msgid "(Contributed by Sebastian Pipping in :gh:`115623`.)"
 msgstr ""
@@ -1837,13 +1837,13 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`!aifc`"
-msgstr ""
+msgstr ":mod:`!aifc`"
 
 msgid ":mod:`!audioop`"
-msgstr ""
+msgstr ":mod:`!audioop`"
 
 msgid ":mod:`!chunk`"
-msgstr ""
+msgstr ":mod:`!chunk`"
 
 msgid ":mod:`!cgi` and :mod:`!cgitb`"
 msgstr ""
@@ -1922,10 +1922,10 @@ msgid ":mod:`!mailcap`: Use the :mod:`mimetypes` module instead."
 msgstr ""
 
 msgid ":mod:`!msilib`"
-msgstr ""
+msgstr ":mod:`!msilib`"
 
 msgid ":mod:`!nis`"
-msgstr ""
+msgstr ":mod:`!nis`"
 
 msgid ":mod:`!nntplib`: Use the :pypi:`pynntp` library from PyPI instead."
 msgstr ""
@@ -1949,7 +1949,7 @@ msgid ":mod:`!spwd`: Use the :pypi:`python-pam` library from PyPI instead."
 msgstr ""
 
 msgid ":mod:`!sunau`"
-msgstr ""
+msgstr ":mod:`!sunau`"
 
 msgid ""
 ":mod:`!telnetlib`, Use the :pypi:`telnetlib3` or :pypi:`Exscript` libraries "
@@ -1961,7 +1961,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`!xdrlib`"
-msgstr ""
+msgstr ":mod:`!xdrlib`"
 
 msgid ""
 "(Contributed by Victor Stinner and Zachary Ware in :gh:`104773` and :gh:"
@@ -2087,25 +2087,25 @@ msgid ""
 msgstr ""
 
 msgid ":func:`!unittest.findTestCases`"
-msgstr ""
+msgstr ":func:`!unittest.findTestCases`"
 
 msgid ":func:`!unittest.makeSuite`"
-msgstr ""
+msgstr ":func:`!unittest.makeSuite`"
 
 msgid ":func:`!unittest.getTestCaseNames`"
-msgstr ""
+msgstr ":func:`!unittest.getTestCaseNames`"
 
 msgid "Use :class:`~unittest.TestLoader` methods instead:"
 msgstr ""
 
 msgid ":meth:`~unittest.TestLoader.loadTestsFromModule`"
-msgstr ""
+msgstr ":meth:`~unittest.TestLoader.loadTestsFromModule`"
 
 msgid ":meth:`~unittest.TestLoader.loadTestsFromTestCase`"
-msgstr ""
+msgstr ":meth:`~unittest.TestLoader.loadTestsFromTestCase`"
 
 msgid ":meth:`~unittest.TestLoader.getTestCaseNames`"
-msgstr ""
+msgstr ":meth:`~unittest.TestLoader.getTestCaseNames`"
 
 msgid "(Contributed by Hugo van Kemenade in :gh:`104835`.)"
 msgstr ""
@@ -2158,7 +2158,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`array`:"
-msgstr ""
+msgstr ":mod:`array`:"
 
 msgid ""
 "Deprecate the ``'u'`` format code (:c:type:`wchar_t`) at runtime. This "
@@ -2169,7 +2169,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`ctypes`:"
-msgstr ""
+msgstr ":mod:`ctypes`:"
 
 msgid ""
 "Deprecate the undocumented :func:`!SetPointerType` function, to be removed "
@@ -2183,7 +2183,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`decimal`:"
-msgstr ""
+msgstr ":mod:`decimal`:"
 
 msgid ""
 "Deprecate the non-standard and undocumented :class:`~decimal.Decimal` format "
@@ -2192,7 +2192,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`dis`:"
-msgstr ""
+msgstr ":mod:`dis`:"
 
 msgid ""
 "Deprecate the :attr:`!HAVE_ARGUMENT` separator. Check membership in :data:"
@@ -2210,7 +2210,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`gettext`:"
-msgstr ""
+msgstr ":mod:`gettext`:"
 
 msgid ""
 "Deprecate non-integer numbers as arguments to functions and methods that "
@@ -2219,7 +2219,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`glob`:"
-msgstr ""
+msgstr ":mod:`glob`:"
 
 msgid ""
 "Deprecate the undocumented :func:`!glob0` and :func:`!glob1` functions. Use :"
@@ -2229,7 +2229,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`http.server`:"
-msgstr ""
+msgstr ":mod:`http.server`:"
 
 msgid ""
 "Deprecate :class:`~http.server.CGIHTTPRequestHandler`, to be removed in "
@@ -2246,7 +2246,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`mimetypes`:"
-msgstr ""
+msgstr ":mod:`mimetypes`:"
 
 msgid ""
 ":term:`Soft-deprecate <soft deprecated>` file path arguments to :func:"
@@ -2255,7 +2255,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`re`:"
-msgstr ""
+msgstr ":mod:`re`:"
 
 msgid ""
 "Deprecate passing the optional *maxsplit*, *count*, or *flags* arguments as "
@@ -2266,7 +2266,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`pathlib`:"
-msgstr ""
+msgstr ":mod:`pathlib`:"
 
 msgid ""
 "Deprecate :meth:`.PurePath.is_reserved`, to be removed in Python 3.15. Use :"
@@ -2275,7 +2275,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`platform`:"
-msgstr ""
+msgstr ":mod:`platform`:"
 
 msgid ""
 "Deprecate :func:`~platform.java_ver`, to be removed in Python 3.15. This "
@@ -2284,7 +2284,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`pydoc`:"
-msgstr ""
+msgstr ":mod:`pydoc`:"
 
 msgid ""
 "Deprecate the undocumented :func:`!ispackage` function. (Contributed by "
@@ -2292,7 +2292,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`sqlite3`:"
-msgstr ""
+msgstr ":mod:`sqlite3`:"
 
 msgid ""
 "Deprecate passing more than one positional argument to the :func:`~sqlite3."
@@ -2318,7 +2318,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`sys`:"
-msgstr ""
+msgstr ":mod:`sys`:"
 
 msgid ""
 "Deprecate the :func:`~sys._enablelegacywindowsfsencoding` function, to be "
@@ -2327,7 +2327,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`tarfile`:"
-msgstr ""
+msgstr ":mod:`tarfile`:"
 
 msgid ""
 "Deprecate the undocumented and unused :attr:`!TarFile.tarfile` attribute, to "
@@ -2335,7 +2335,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`traceback`:"
-msgstr ""
+msgstr ":mod:`traceback`:"
 
 msgid ""
 "Deprecate the :attr:`.TracebackException.exc_type` attribute. Use :attr:`."
@@ -2344,7 +2344,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`typing`:"
-msgstr ""
+msgstr ":mod:`typing`:"
 
 msgid ""
 "Deprecate the undocumented keyword argument syntax for creating :class:"
@@ -2380,7 +2380,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`wave`:"
-msgstr ""
+msgstr ":mod:`wave`:"
 
 msgid ""
 "Deprecate the :meth:`~wave.Wave_read.getmark`, :meth:`!setmark`, and :meth:"
@@ -2405,19 +2405,19 @@ msgid ""
 msgstr ""
 
 msgid ":class:`!ast.Num`"
-msgstr ""
+msgstr ":class:`!ast.Num`"
 
 msgid ":class:`!ast.Str`"
-msgstr ""
+msgstr ":class:`!ast.Str`"
 
 msgid ":class:`!ast.Bytes`"
-msgstr ""
+msgstr ":class:`!ast.Bytes`"
 
 msgid ":class:`!ast.NameConstant`"
-msgstr ""
+msgstr ":class:`!ast.NameConstant`"
 
 msgid ":class:`!ast.Ellipsis`"
-msgstr ""
+msgstr ":class:`!ast.Ellipsis`"
 
 msgid ""
 "Use :class:`ast.Constant` instead. (Contributed by Serhiy Storchaka in :gh:"
@@ -2425,7 +2425,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`asyncio`:"
-msgstr ""
+msgstr ":mod:`asyncio`:"
 
 msgid ""
 "The child watcher classes :class:`~asyncio.MultiLoopChildWatcher`, :class:"
@@ -2464,22 +2464,22 @@ msgid ":mod:`importlib.abc` deprecated classes:"
 msgstr ""
 
 msgid ":class:`!importlib.abc.ResourceReader`"
-msgstr ""
+msgstr ":class:`!importlib.abc.ResourceReader`"
 
 msgid ":class:`!importlib.abc.Traversable`"
-msgstr ""
+msgstr ":class:`!importlib.abc.Traversable`"
 
 msgid ":class:`!importlib.abc.TraversableResources`"
-msgstr ""
+msgstr ":class:`!importlib.abc.TraversableResources`"
 
 msgid "Use :mod:`importlib.resources.abc` classes instead:"
 msgstr ""
 
 msgid ":class:`importlib.resources.abc.Traversable`"
-msgstr ""
+msgstr ":class:`importlib.resources.abc.Traversable`"
 
 msgid ":class:`importlib.resources.abc.TraversableResources`"
-msgstr ""
+msgstr ":class:`importlib.resources.abc.TraversableResources`"
 
 msgid "(Contributed by Jason R. Coombs and Hugo van Kemenade in :gh:`93963`.)"
 msgstr ""
@@ -2513,7 +2513,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`pty`:"
-msgstr ""
+msgstr ":mod:`pty`:"
 
 msgid "``master_open()``: use :func:`pty.openpty`."
 msgstr ""
@@ -2578,7 +2578,7 @@ msgid ""
 msgstr ""
 
 msgid ":class:`locale`:"
-msgstr ""
+msgstr ":class:`locale`:"
 
 msgid ""
 "The :func:`~locale.getdefaultlocale` function has been deprecated since "
@@ -2600,7 +2600,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`threading`:"
-msgstr ""
+msgstr ":mod:`threading`:"
 
 msgid ""
 ":func:`~threading.RLock` will take no arguments in Python 3.15. Passing any "
@@ -2610,7 +2610,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`types`:"
-msgstr ""
+msgstr ":mod:`types`:"
 
 msgid ""
 ":class:`types.CodeType`: Accessing :attr:`~codeobject.co_lnotab` was "
@@ -2661,7 +2661,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`builtins`:"
-msgstr ""
+msgstr ":mod:`builtins`:"
 
 msgid ""
 "Bitwise inversion on boolean types, ``~True`` or ``~False`` has been "
@@ -2672,7 +2672,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`shutil`:"
-msgstr ""
+msgstr ":mod:`shutil`:"
 
 msgid ""
 "The :class:`!ExecError` exception has been deprecated since Python 3.14. It "
@@ -2681,7 +2681,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`symtable`:"
-msgstr ""
+msgstr ":mod:`symtable`:"
 
 msgid ""
 "The :meth:`Class.get_methods <symtable.Class.get_methods>` method has been "
@@ -2775,7 +2775,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`datetime`:"
-msgstr ""
+msgstr ":mod:`datetime`:"
 
 msgid ""
 ":meth:`~datetime.datetime.utcnow`: use ``datetime.datetime.now(tz=datetime."
@@ -2791,7 +2791,7 @@ msgid ":mod:`gettext`: Plural value must be an integer."
 msgstr ""
 
 msgid ":mod:`importlib`:"
-msgstr ""
+msgstr ":mod:`importlib`:"
 
 msgid "``load_module()`` method: use ``exec_module()`` instead."
 msgstr ""
@@ -2802,7 +2802,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`importlib.metadata`:"
-msgstr ""
+msgstr ":mod:`importlib.metadata`:"
 
 msgid "``EntryPoints`` tuple interface."
 msgstr ""
@@ -3008,61 +3008,61 @@ msgid ""
 msgstr ""
 
 msgid ":c:type:`PyMonitoringState`"
-msgstr ""
+msgstr ":c:type:`PyMonitoringState`"
 
 msgid ":c:func:`PyMonitoring_FirePyStartEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyStartEvent`"
 
 msgid ":c:func:`PyMonitoring_FirePyResumeEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyResumeEvent`"
 
 msgid ":c:func:`PyMonitoring_FirePyReturnEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyReturnEvent`"
 
 msgid ":c:func:`PyMonitoring_FirePyYieldEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyYieldEvent`"
 
 msgid ":c:func:`PyMonitoring_FireCallEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireCallEvent`"
 
 msgid ":c:func:`PyMonitoring_FireLineEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireLineEvent`"
 
 msgid ":c:func:`PyMonitoring_FireJumpEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireJumpEvent`"
 
 msgid ":c:func:`PyMonitoring_FireBranchEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireBranchEvent`"
 
 msgid ":c:func:`PyMonitoring_FireCReturnEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireCReturnEvent`"
 
 msgid ":c:func:`PyMonitoring_FirePyThrowEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyThrowEvent`"
 
 msgid ":c:func:`PyMonitoring_FireRaiseEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireRaiseEvent`"
 
 msgid ":c:func:`PyMonitoring_FireCRaiseEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireCRaiseEvent`"
 
 msgid ":c:func:`PyMonitoring_FireReraiseEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireReraiseEvent`"
 
 msgid ":c:func:`PyMonitoring_FireExceptionHandledEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireExceptionHandledEvent`"
 
 msgid ":c:func:`PyMonitoring_FirePyUnwindEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FirePyUnwindEvent`"
 
 msgid ":c:func:`PyMonitoring_FireStopIterationEvent`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_FireStopIterationEvent`"
 
 msgid ":c:func:`PyMonitoring_EnterScope`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_EnterScope`"
 
 msgid ":c:func:`PyMonitoring_ExitScope`"
-msgstr ""
+msgstr ":c:func:`PyMonitoring_ExitScope`"
 
 msgid "(Contributed by Irit Katriel in :gh:`111997`)."
 msgstr ""
@@ -3079,31 +3079,31 @@ msgid ""
 msgstr ""
 
 msgid ":c:type:`PyTime_t`."
-msgstr ""
+msgstr ":c:type:`PyTime_t`."
 
 msgid ":c:var:`PyTime_MIN` and :c:var:`PyTime_MAX`."
 msgstr ""
 
 msgid ":c:func:`PyTime_AsSecondsDouble`."
-msgstr ""
+msgstr ":c:func:`PyTime_AsSecondsDouble`."
 
 msgid ":c:func:`PyTime_Monotonic`."
-msgstr ""
+msgstr ":c:func:`PyTime_Monotonic`."
 
 msgid ":c:func:`PyTime_MonotonicRaw`."
-msgstr ""
+msgstr ":c:func:`PyTime_MonotonicRaw`."
 
 msgid ":c:func:`PyTime_PerfCounter`."
-msgstr ""
+msgstr ":c:func:`PyTime_PerfCounter`."
 
 msgid ":c:func:`PyTime_PerfCounterRaw`."
-msgstr ""
+msgstr ":c:func:`PyTime_PerfCounterRaw`."
 
 msgid ":c:func:`PyTime_Time`."
-msgstr ""
+msgstr ":c:func:`PyTime_Time`."
 
 msgid ":c:func:`PyTime_TimeRaw`."
-msgstr ""
+msgstr ":c:func:`PyTime_TimeRaw`."
 
 msgid "(Contributed by Victor Stinner and Petr Viktorin in :gh:`110850`.)"
 msgstr ""
@@ -3424,13 +3424,13 @@ msgid ":c:func:`PyMem_RawFree`"
 msgstr ":c:func:`PyMem_RawFree`"
 
 msgid ":c:func:`PySys_Audit`"
-msgstr ""
+msgstr ":c:func:`PySys_Audit`"
 
 msgid ":c:func:`PySys_AuditTuple`"
-msgstr ""
+msgstr ":c:func:`PySys_AuditTuple`"
 
 msgid ":c:func:`PyType_GetModuleByDef`"
-msgstr ""
+msgstr ":c:func:`PyType_GetModuleByDef`"
 
 msgid ""
 "(Contributed by Victor Stinner in :gh:`85283`, :gh:`85283`, and :gh:"

@@ -231,7 +231,7 @@ msgid ""
 msgstr ""
 
 msgid ":pep:`686`"
-msgstr ""
+msgstr ":pep:`686`"
 
 msgid "Python 3.15 will make :ref:`utf8-mode` default."
 msgstr ""
@@ -1066,19 +1066,19 @@ msgid ""
 msgstr ""
 
 msgid ":const:`SEEK_SET`"
-msgstr ""
+msgstr ":const:`SEEK_SET`"
 
 msgid "Adjust the file position relative to the beginning of the file."
 msgstr ""
 
 msgid ":const:`SEEK_CUR`"
-msgstr ""
+msgstr ":const:`SEEK_CUR`"
 
 msgid "Adjust the file position relative to the current file position."
 msgstr ""
 
 msgid ":const:`SEEK_END`"
-msgstr ""
+msgstr ":const:`SEEK_END`"
 
 msgid "Adjust the file position relative to the end of the file."
 msgstr ""
@@ -1093,7 +1093,7 @@ msgid ""
 msgstr ""
 
 msgid ":data:`!SEEK_DATA`"
-msgstr ""
+msgstr ":data:`!SEEK_DATA`"
 
 msgid ""
 "Adjust the file offset to the next location containing data, relative to the "
@@ -1101,7 +1101,7 @@ msgid ""
 msgstr ""
 
 msgid ":data:`!SEEK_HOLE`"
-msgstr ""
+msgstr ":data:`!SEEK_HOLE`"
 
 msgid ""
 "Adjust the file offset to the next location containing a hole, relative to "
@@ -1766,40 +1766,40 @@ msgid ""
 msgstr ""
 
 msgid ":const:`stat.UF_NODUMP`"
-msgstr ""
+msgstr ":const:`stat.UF_NODUMP`"
 
 msgid ":const:`stat.UF_IMMUTABLE`"
-msgstr ""
+msgstr ":const:`stat.UF_IMMUTABLE`"
 
 msgid ":const:`stat.UF_APPEND`"
-msgstr ""
+msgstr ":const:`stat.UF_APPEND`"
 
 msgid ":const:`stat.UF_OPAQUE`"
-msgstr ""
+msgstr ":const:`stat.UF_OPAQUE`"
 
 msgid ":const:`stat.UF_NOUNLINK`"
-msgstr ""
+msgstr ":const:`stat.UF_NOUNLINK`"
 
 msgid ":const:`stat.UF_COMPRESSED`"
-msgstr ""
+msgstr ":const:`stat.UF_COMPRESSED`"
 
 msgid ":const:`stat.UF_HIDDEN`"
-msgstr ""
+msgstr ":const:`stat.UF_HIDDEN`"
 
 msgid ":const:`stat.SF_ARCHIVED`"
-msgstr ""
+msgstr ":const:`stat.SF_ARCHIVED`"
 
 msgid ":const:`stat.SF_IMMUTABLE`"
-msgstr ""
+msgstr ":const:`stat.SF_IMMUTABLE`"
 
 msgid ":const:`stat.SF_APPEND`"
-msgstr ""
+msgstr ":const:`stat.SF_APPEND`"
 
 msgid ":const:`stat.SF_NOUNLINK`"
-msgstr ""
+msgstr ":const:`stat.SF_NOUNLINK`"
 
 msgid ":const:`stat.SF_SNAPSHOT`"
-msgstr ""
+msgstr ":const:`stat.SF_SNAPSHOT`"
 
 msgid ""
 "This function can support :ref:`not following symlinks <follow_symlinks>`."
@@ -1820,61 +1820,61 @@ msgid ""
 msgstr ""
 
 msgid ":const:`stat.S_ISUID`"
-msgstr ""
+msgstr ":const:`stat.S_ISUID`"
 
 msgid ":const:`stat.S_ISGID`"
-msgstr ""
+msgstr ":const:`stat.S_ISGID`"
 
 msgid ":const:`stat.S_ENFMT`"
-msgstr ""
+msgstr ":const:`stat.S_ENFMT`"
 
 msgid ":const:`stat.S_ISVTX`"
-msgstr ""
+msgstr ":const:`stat.S_ISVTX`"
 
 msgid ":const:`stat.S_IREAD`"
-msgstr ""
+msgstr ":const:`stat.S_IREAD`"
 
 msgid ":const:`stat.S_IWRITE`"
-msgstr ""
+msgstr ":const:`stat.S_IWRITE`"
 
 msgid ":const:`stat.S_IEXEC`"
-msgstr ""
+msgstr ":const:`stat.S_IEXEC`"
 
 msgid ":const:`stat.S_IRWXU`"
-msgstr ""
+msgstr ":const:`stat.S_IRWXU`"
 
 msgid ":const:`stat.S_IRUSR`"
-msgstr ""
+msgstr ":const:`stat.S_IRUSR`"
 
 msgid ":const:`stat.S_IWUSR`"
-msgstr ""
+msgstr ":const:`stat.S_IWUSR`"
 
 msgid ":const:`stat.S_IXUSR`"
-msgstr ""
+msgstr ":const:`stat.S_IXUSR`"
 
 msgid ":const:`stat.S_IRWXG`"
-msgstr ""
+msgstr ":const:`stat.S_IRWXG`"
 
 msgid ":const:`stat.S_IRGRP`"
-msgstr ""
+msgstr ":const:`stat.S_IRGRP`"
 
 msgid ":const:`stat.S_IWGRP`"
-msgstr ""
+msgstr ":const:`stat.S_IWGRP`"
 
 msgid ":const:`stat.S_IXGRP`"
-msgstr ""
+msgstr ":const:`stat.S_IXGRP`"
 
 msgid ":const:`stat.S_IRWXO`"
-msgstr ""
+msgstr ":const:`stat.S_IRWXO`"
 
 msgid ":const:`stat.S_IROTH`"
-msgstr ""
+msgstr ":const:`stat.S_IROTH`"
 
 msgid ":const:`stat.S_IWOTH`"
-msgstr ""
+msgstr ":const:`stat.S_IWOTH`"
 
 msgid ":const:`stat.S_IXOTH`"
-msgstr ""
+msgstr ":const:`stat.S_IXOTH`"
 
 msgid ""
 "This function can support :ref:`specifying a file descriptor <path_fd>`, :"
@@ -3484,13 +3484,13 @@ msgid "The file descriptor returned by :func:`timerfd_create` supports:"
 msgstr ""
 
 msgid ":func:`read`"
-msgstr ""
+msgstr ":func:`read`"
 
 msgid ":func:`~select.select`"
-msgstr ""
+msgstr ":func:`~select.select`"
 
 msgid ":func:`~select.poll`"
-msgstr ""
+msgstr ":func:`~select.poll`"
 
 msgid ""
 "The file descriptor's :func:`read` method can be called with a buffer size "
@@ -3511,10 +3511,10 @@ msgid ""
 msgstr ""
 
 msgid ":const:`time.CLOCK_REALTIME`"
-msgstr ""
+msgstr ":const:`time.CLOCK_REALTIME`"
 
 msgid ":const:`time.CLOCK_MONOTONIC`"
-msgstr ""
+msgstr ":const:`time.CLOCK_MONOTONIC`"
 
 msgid ":const:`time.CLOCK_BOOTTIME` (Since Linux 3.15 for timerfd_create)"
 msgstr ""
@@ -3544,10 +3544,10 @@ msgid ""
 msgstr ""
 
 msgid ":const:`TFD_NONBLOCK`"
-msgstr ""
+msgstr ":const:`TFD_NONBLOCK`"
 
 msgid ":const:`TFD_CLOEXEC`"
-msgstr ""
+msgstr ":const:`TFD_CLOEXEC`"
 
 msgid ""
 "If :const:`TFD_NONBLOCK` is not set as a flag, :func:`read` blocks until the "
@@ -3582,10 +3582,10 @@ msgid ""
 msgstr ""
 
 msgid ":const:`TFD_TIMER_ABSTIME`"
-msgstr ""
+msgstr ":const:`TFD_TIMER_ABSTIME`"
 
 msgid ":const:`TFD_TIMER_CANCEL_ON_SET`"
-msgstr ""
+msgstr ":const:`TFD_TIMER_CANCEL_ON_SET`"
 
 msgid ""
 "The timer is disabled by setting *initial* to zero (``0``). If *initial* is "
@@ -3670,7 +3670,7 @@ msgid ""
 msgstr ""
 
 msgid ":manpage:`timerfd_gettime(2)`"
-msgstr ""
+msgstr ":manpage:`timerfd_gettime(2)`"
 
 msgid "Similar to :func:`timerfd_gettime`, but return time as nanoseconds."
 msgstr ""
