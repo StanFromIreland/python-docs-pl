@@ -15,8 +15,8 @@ f'''![build](https://github.com/python/python-docs-pl/workflows/.github/workflow
 ![{translators} Translators](https://img.shields.io/badge/Translators-{translators}-0.svg)''')
 ]]] -->
 ![build](https://github.com/python/python-docs-pl/workflows/.github/workflows/update-lint-and-build.yml/badge.svg)
-![80.97% Language Switcher](https://img.shields.io/badge/language_switcher-80.97%25-0.svg)
-![Total Translation of Documentation](https://img.shields.io/badge/Total-4.16%25-0.svg)
+![80.81% Language Switcher](https://img.shields.io/badge/language_switcher-80.81%25-0.svg)
+![Total Translation of Documentation](https://img.shields.io/badge/Total-4.15%25-0.svg)
 ![24 Translators](https://img.shields.io/badge/Translators-24-0.svg)
 <!-- [[[end]]] -->
 
