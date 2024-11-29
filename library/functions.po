@@ -2000,7 +2000,7 @@ msgid ""
 msgstr ""
 
 msgid "The ``'namereplace'`` error handler was added."
-msgstr ""
+msgstr "Dodano obsługę błędów ``'namereplace'``."
 
 msgid "Support added to accept objects implementing :class:`os.PathLike`."
 msgstr ""
