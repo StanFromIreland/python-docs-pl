@@ -7,16 +7,16 @@
 # Maciej Olko <maciej.olko@gmail.com>, 2023
 # haaritsubaki, 2023
 # Rafael Fontenelle <rffontenelle@gmail.com>, 2024
-# Stan U, 2024
+# Stanislaw Ulbrych, 2024
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-22 14:17+0000\n"
+"POT-Creation-Date: 2024-11-29 14:18+0000\n"
 "PO-Revision-Date: 2021-06-28 01:19+0000\n"
-"Last-Translator: Stan U, 2024\n"
+"Last-Translator: Stanislaw Ulbrych, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1222,31 +1222,31 @@ msgid ":class:`bytearray`"
 msgstr ""
 
 msgid ":class:`bytes`"
-msgstr ""
+msgstr ":class:`bytes`"
 
 msgid ":class:`dict`"
-msgstr ""
+msgstr ":class:`dict`"
 
 msgid ":class:`float`"
-msgstr ""
+msgstr ":class:`float`"
 
 msgid ":class:`frozenset`"
-msgstr ""
+msgstr ":class:`frozenset`"
 
 msgid ":class:`int`"
-msgstr ""
+msgstr ":class:`int`"
 
 msgid ":class:`list`"
-msgstr ""
+msgstr ":class:`list`"
 
 msgid ":class:`set`"
-msgstr ""
+msgstr ":class:`set`"
 
 msgid ":class:`str`"
-msgstr ""
+msgstr ":class:`str`"
 
 msgid ":class:`tuple`"
-msgstr ""
+msgstr ":class:`tuple`"
 
 msgid ""
 "These classes accept a single positional argument, and the pattern there is "
@@ -2043,7 +2043,7 @@ msgid ":class:`array.array`"
 msgstr ""
 
 msgid ":class:`collections.deque`"
-msgstr ""
+msgstr ":class:`collections.deque`"
 
 msgid ":class:`memoryview`"
 msgstr ""
@@ -2313,7 +2313,7 @@ msgid "inheritance"
 msgstr ""
 
 msgid "docstring"
-msgstr ""
+msgstr "docstring"
 
 msgid "class definition"
 msgstr ""

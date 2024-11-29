@@ -15,9 +15,9 @@ f'''![build](https://github.com/python/python-docs-pl/workflows/.github/workflow
 ![{translators} Translators](https://img.shields.io/badge/Translators-{translators}-0.svg)''')
 ]]] -->
 ![build](https://github.com/python/python-docs-pl/workflows/.github/workflows/update-lint-and-build.yml/badge.svg)
-![80.86% Language Switcher](https://img.shields.io/badge/language_switcher-80.86%25-0.svg)
-![Total Translation of Documentation](https://img.shields.io/badge/Total-4.16%25-0.svg)
-![24 Translators](https://img.shields.io/badge/Translators-24-0.svg)
+![82.28% Language Switcher](https://img.shields.io/badge/language_switcher-82.28%25-0.svg)
+![Total Translation of Documentation](https://img.shields.io/badge/Total-4.30%25-0.svg)
+![25 Translators](https://img.shields.io/badge/Translators-25-0.svg)
 <!-- [[[end]]] -->
 
 *Przeczytaj to w innym języku: [Polski](README.md)*

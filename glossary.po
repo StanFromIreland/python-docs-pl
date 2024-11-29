@@ -10,16 +10,16 @@
 # gresm, 2024
 # Rafael Fontenelle <rffontenelle@gmail.com>, 2024
 # Maciej Olko <maciej.olko@gmail.com>, 2024
-# Stan U, 2024
+# Stanislaw Ulbrych, 2024
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-22 14:17+0000\n"
+"POT-Creation-Date: 2024-11-29 14:18+0000\n"
 "PO-Revision-Date: 2021-06-28 00:47+0000\n"
-"Last-Translator: Stan U, 2024\n"
+"Last-Translator: Stanislaw Ulbrych, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/python-doc/teams/5390/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -238,7 +238,7 @@ msgid ""
 msgstr ""
 
 msgid "BDFL"
-msgstr ""
+msgstr "BDFL"
 
 msgid ""
 "Benevolent Dictator For Life, a.k.a. `Guido van Rossum <https://gvanrossum."
@@ -523,7 +523,7 @@ msgid ""
 msgstr ""
 
 msgid "decorator"
-msgstr ""
+msgstr "dekorator"
 
 msgid ""
 "A function returning another function, usually applied as a function "
@@ -603,7 +603,7 @@ msgid ""
 msgstr ""
 
 msgid "docstring"
-msgstr ""
+msgstr "docstring"
 
 msgid ""
 "A string literal which appears as the first expression in a class, function "
@@ -727,7 +727,7 @@ msgid "See also the :term:`locale encoding`."
 msgstr ""
 
 msgid "finder"
-msgstr ""
+msgstr "wyszukiwarka"
 
 msgid ""
 "An object that tries to find the :term:`loader` for a module that is being "
@@ -814,7 +814,7 @@ msgid ""
 msgstr ""
 
 msgid "__future__"
-msgstr ""
+msgstr "__future__"
 
 msgid ""
 "A :ref:`future statement <future>`, ``from __future__ import <feature>``, "
@@ -1027,7 +1027,7 @@ msgid ""
 msgstr ""
 
 msgid "importing"
-msgstr ""
+msgstr "import"
 
 msgid ""
 "The process by which Python code in one module is made available to Python "
@@ -1035,7 +1035,7 @@ msgid ""
 msgstr ""
 
 msgid "importer"
-msgstr ""
+msgstr "importer"
 
 msgid ""
 "An object that both finds and loads a module; both a :term:`finder` and :"
@@ -1232,7 +1232,7 @@ msgid ":class:`importlib.abc.Loader`"
 msgstr ""
 
 msgid ":pep:`302`"
-msgstr ""
+msgstr ":pep:`302`"
 
 msgid "locale encoding"
 msgstr ""
@@ -1288,7 +1288,7 @@ msgid ""
 msgstr ""
 
 msgid "metaclass"
-msgstr ""
+msgstr "metaklasa"
 
 msgid ""
 "The class of a class.  Class definitions create a class name, a class "
@@ -1467,7 +1467,7 @@ msgid ""
 msgstr ""
 
 msgid "package"
-msgstr ""
+msgstr "pakiet"
 
 msgid ""
 "A Python :term:`module` which can contain submodules or recursively, "
@@ -1602,7 +1602,7 @@ msgid ""
 msgstr ""
 
 msgid "PEP"
-msgstr ""
+msgstr "PEP"
 
 msgid ""
 "Python Enhancement Proposal. A PEP is a design document providing "
@@ -1623,7 +1623,7 @@ msgid "See :pep:`1`."
 msgstr ""
 
 msgid "portion"
-msgstr ""
+msgstr "część"
 
 msgid ""
 "A set of files in a single directory (possibly stored in a zip file) that "
@@ -1674,7 +1674,7 @@ msgid ""
 msgstr ""
 
 msgid "Pythonic"
-msgstr ""
+msgstr "Pythoniczny"
 
 msgid ""
 "An idea or piece of code which closely follows the most common idioms of the "
@@ -1767,7 +1767,7 @@ msgid ""
 msgstr ""
 
 msgid "__slots__"
-msgstr ""
+msgstr "__slots__"
 
 msgid ""
 "A declaration inside a class that saves memory by pre-declaring space for "
