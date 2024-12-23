@@ -1549,6 +1549,15 @@ resource_name          = library--cmdline
 replace_edited_strings = false
 keep_translations      = false
 
+[o:python-doc:p:python-newest:r:library--cmdlinelibs]
+file_filter            = library/cmdlinelibs.po
+source_file            = gettext/library/cmdlinelibs.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = library--cmdlinelibs
+replace_edited_strings = false
+keep_translations      = false
+
 [o:python-doc:p:python-newest:r:library--code]
 file_filter            = library/code.po
 source_file            = gettext/library/code.pot
