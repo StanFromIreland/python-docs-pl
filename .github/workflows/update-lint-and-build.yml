@@ -59,7 +59,7 @@ jobs:
       - run: git commit -m "$(python manage_translation.py generate_commit_msg)"
         if: env.SIGNIFICANT_CHANGES
       - name: Push commit
-        uses: ad-m/github-push-action@v1.1.0
+        uses: ad-m/github-push-action@v1.3.0
         if: env.SIGNIFICANT_CHANGES
         with:
           branch: ${{ matrix.version }}
