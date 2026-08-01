@@ -19,7 +19,7 @@ jobs:
       - uses: styfle/cancel-workflow-action@0.13.1
         with:
           access_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3
       - name: Install dependencies
@@ -28,7 +28,7 @@ jobs:
           pip install requests cogapp polib transifex-python sphinx-intl blurb six
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
         working-directory: /usr/local/bin
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ matrix.version }}
           fetch-depth: 0
@@ -59,7 +59,7 @@ jobs:
       - run: git commit -m "$(python manage_translation.py generate_commit_msg)"
         if: env.SIGNIFICANT_CHANGES
       - name: Push commit
-        uses: ad-m/github-push-action@v1.1.0
+        uses: ad-m/github-push-action@v1.3.0
         if: env.SIGNIFICANT_CHANGES
         with:
           branch: ${{ matrix.version }}
@@ -74,11 +74,11 @@ jobs:
     needs: ['update']
     continue-on-error: true
     steps:
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3
       - run: pip install sphinx-lint
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ matrix.version }}
       - uses: rffontenelle/sphinx-lint-problem-matcher@v1.0.0
@@ -93,16 +93,16 @@ jobs:
         format: [html, latex, epub]
     needs: ['update']
     steps:
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3.12  # pin for Sphinx 3.4.3 in 3.10 branch (see #63)
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           repository: python/cpython
           ref: ${{ matrix.version }}
       - run: make venv
         working-directory: ./Doc
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ matrix.version }}
           path: Doc/locales/pl/LC_MESSAGES
@@ -145,7 +145,7 @@ jobs:
     needs: ['build']
     continue-on-error: true
     steps:
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3.x
       - uses: astral-sh/setup-uv@v7
